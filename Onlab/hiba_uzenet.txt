@@ -1,0 +1,28 @@
+obot állapot ellenőrzése...
+Kapcsolat bontva.
+Connecting to Dashboard server at 10.150.0.1:29999...
+Connecting to RTDE at 10.150.0.1:30004...
+INFO:rtde:RTDE synchronization started
+INFO:rtde:RTDE synchronization paused
+
+=== Robot Status ===
+Connection: Connected
+Power State: could not understand: 'isPowerOn'
+Robot Mode: Unknown
+Program State: Stopped
+Safety Status: Normal
+Detailed Mode: Robotmode: RUNNING
+
+Joint Positions:
+  Joint 1: 0.958122 rad
+  Joint 2: -0.947724 rad
+  Joint 3: 1.257384 rad
+  Joint 4: 1.257904 rad
+  Joint 5: 1.531415 rad
+  Joint 6: -2.188160 rad
+===================
+
+Kapcsolódás a robothoz (10.150.0.1:30002)...
+Sikeresen kapcsolódva!
+
+Nyomj Enter-t a folytatáshoz...

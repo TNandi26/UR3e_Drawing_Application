@@ -1,0 +1,55 @@
+2025-05-07 15:38:12,740 - __main__ - INFO - Kapcsolódva a Primary kliens interfészhez (port 30001)
+2025-05-07 15:38:12,838 - __main__ - INFO - Kapcsolódva a Secondary kliens interfészhez (port 30002)
+2025-05-07 15:38:13,140 - __main__ - INFO - Dashboard kapcsolat: Connected: Universal Robots Dashboard Server
+2025-05-07 15:38:13,142 - __main__ - INFO - Minden interfész sikeresen csatlakoztatva
+2025-05-07 15:38:24,980 - __main__ - INFO - Dashboard parancs: robotmode
+2025-05-07 15:38:25,076 - __main__ - INFO - Dashboard válasz: Robotmode: RUNNING
+2025-05-07 15:38:25,076 - __main__ - INFO - Dashboard parancs: safetystatus
+2025-05-07 15:38:25,288 - __main__ - INFO - Dashboard válasz: Safetystatus: NORMAL
+2025-05-07 15:38:25,288 - __main__ - INFO - Dashboard parancs: programstate
+2025-05-07 15:38:25,392 - __main__ - INFO - Dashboard válasz: STOPPED <unnamed>
+2025-05-07 15:38:25,392 - __main__ - INFO - Dashboard parancs: get loaded program
+2025-05-07 15:38:25,590 - __main__ - INFO - Dashboard válasz: Loaded program: /programs/<unnamed>.urp
+2025-05-07 15:38:25,590 - __main__ - INFO - Dashboard parancs: PolyscopeVersion
+2025-05-07 15:38:25,709 - __main__ - INFO - Dashboard válasz: URSoftware 5.16.0.127960 (Apr 10 2024)
+2025-05-07 15:38:37,043 - __main__ - INFO - Mozgás a 'home' pozícióba: [0.0, -5.061457000000001, -0.6981320000000001, 0.03839726000000001, 0.03839726000000001, 0.0]
+2025-05-07 15:38:37,043 - __main__ - INFO - Script küldése a Secondary interfészen keresztül...
+2025-05-07 15:38:37,043 - __main__ - ERROR - Hiba a script küldésekor a Secondary interfészen: 'utf-8' codec can't decode byte 0xff in position 5: invalid start byte
+2025-05-07 15:38:37,043 - __main__ - INFO - Secondary kapcsolat lezárva
+2025-05-07 15:38:57,609 - __main__ - INFO - Mozgás a 'position2' pozícióba: [-75, -340, -10, 2.2, 2.2, 0]
+2025-05-07 15:38:57,609 - __main__ - ERROR - Nincs kapcsolat a másodlagos interfészhez
+2025-05-07 15:39:05,066 - __main__ - INFO - Dashboard parancs: robotmode
+2025-05-07 15:39:05,143 - __main__ - INFO - Dashboard válasz: Robotmode: RUNNING
+2025-05-07 15:39:05,143 - __main__ - INFO - Dashboard parancs: safetystatus
+2025-05-07 15:39:05,260 - __main__ - INFO - Dashboard válasz: Safetystatus: NORMAL
+2025-05-07 15:39:05,261 - __main__ - INFO - Dashboard parancs: programstate
+2025-05-07 15:39:05,461 - __main__ - INFO - Dashboard válasz: STOPPED <unnamed>
+2025-05-07 15:39:05,461 - __main__ - INFO - Dashboard parancs: get loaded program
+2025-05-07 15:39:05,714 - __main__ - INFO - Dashboard válasz: Loaded program: /programs/<unnamed>.urp
+2025-05-07 15:39:05,714 - __main__ - INFO - Dashboard parancs: PolyscopeVersion
+2025-05-07 15:39:05,794 - __main__ - INFO - Dashboard válasz: URSoftware 5.16.0.127960 (Apr 10 2024)
+2025-05-07 15:39:11,935 - __main__ - INFO - Mozgás a 'position1' pozícióba: [-37, -295, -10, 2.2, 2.2, 0]
+2025-05-07 15:39:11,935 - __main__ - ERROR - Nincs kapcsolat a másodlagos interfészhez
+2025-05-07 15:39:34,730 - __main__ - INFO - Primary kapcsolat lezárva
+2025-05-07 15:39:34,730 - __main__ - INFO - Dashboard kapcsolat lezárva
+2025-05-07 15:39:34,730 - __main__ - INFO - Lekapcsolódva a robotról
+2025-05-07 15:39:36,851 - __main__ - INFO - Kapcsolódva a Primary kliens interfészhez (port 30001)
+2025-05-07 15:39:36,954 - __main__ - INFO - Kapcsolódva a Secondary kliens interfészhez (port 30002)
+2025-05-07 15:39:37,172 - __main__ - INFO - Dashboard kapcsolat: Connected: Universal Robots Dashboard Server
+2025-05-07 15:39:37,172 - __main__ - INFO - Minden interfész sikeresen csatlakoztatva
+2025-05-07 15:39:40,481 - __main__ - INFO - Dashboard parancs: robotmode
+2025-05-07 15:39:40,646 - __main__ - INFO - Dashboard válasz: Robotmode: RUNNING
+2025-05-07 15:39:40,646 - __main__ - INFO - Dashboard parancs: safetystatus
+2025-05-07 15:39:40,736 - __main__ - INFO - Dashboard válasz: Safetystatus: NORMAL
+2025-05-07 15:39:40,751 - __main__ - INFO - Dashboard parancs: programstate
+2025-05-07 15:39:40,971 - __main__ - INFO - Dashboard válasz: STOPPED <unnamed>
+2025-05-07 15:39:40,971 - __main__ - INFO - Dashboard parancs: get loaded program
+2025-05-07 15:39:41,053 - __main__ - INFO - Dashboard válasz: Loaded program: /programs/<unnamed>.urp
+2025-05-07 15:39:41,069 - __main__ - INFO - Dashboard parancs: PolyscopeVersion
+2025-05-07 15:39:41,267 - __main__ - INFO - Dashboard válasz: URSoftware 5.16.0.127960 (Apr 10 2024)
+2025-05-07 15:39:52,856 - __main__ - INFO - Mozgás a 'home' pozícióba: [0.0, -5.061457000000001, -0.6981320000000001, 0.03839726000000001, 0.03839726000000001, 0.0]
+2025-05-07 15:39:52,856 - __main__ - INFO - Script küldése a Secondary interfészen keresztül...
+2025-05-07 15:39:52,858 - __main__ - ERROR - Hiba a script küldésekor a Secondary interfészen: 'utf-8' codec can't decode byte 0xff in position 5: invalid start byte
+2025-05-07 15:39:52,858 - __main__ - INFO - Secondary kapcsolat lezárva
+2025-05-07 15:40:05,541 - __main__ - INFO - Mozgás a 'position1' pozícióba: [-37, -295, -10, 2.2, 2.2, 0]
+2025-05-07 15:40:05,541 - __main__ - ERROR - Nincs kapcsolat a másodlagos interfészhez

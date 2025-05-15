@@ -1,0 +1,23 @@
+% JSON fájl betöltése
+filename = 'C:/Users\Nándi/Desktop/Python_programok/Onlab/drawings/square.json'; % Cseréld ki szükség szerint
+raw = fileread(filename);
+data = jsondecode(raw);  % data will be an Nx6 numeric array
+
+% Ellenőrzés, ha esetleg cell array lenne
+if iscell(data)
+    data = cell2mat(data);
+end
+
+% X és Y koordináták kivétele
+x = data(:, 1);
+y = data(:, 2);
+
+% Ábrázolás
+figure;
+plot(x, y, '-o');
+xlabel('X');
+ylabel('Y');
+title('Trajektória XY síkban');
+axis equal;
+grid on;
+

@@ -1,0 +1,41 @@
+2025-05-07 15:05:09,194 - __main__ - INFO - Dashboard kapcsolat: Connected: Universal Robots Dashboard Server
+2025-05-07 15:05:09,293 - __main__ - INFO - Kapcsolódva a robothoz URScript interfészen (port 30002)
+2025-05-07 15:05:21,649 - __main__ - INFO - Dashboard parancs: robotmode
+2025-05-07 15:05:21,716 - __main__ - INFO - Dashboard válasz: Robotmode: RUNNING
+2025-05-07 15:05:21,716 - __main__ - INFO - Dashboard parancs: safetystatus
+2025-05-07 15:05:21,827 - __main__ - INFO - Dashboard válasz: Safetystatus: NORMAL
+2025-05-07 15:05:21,827 - __main__ - INFO - Dashboard parancs: programstate
+2025-05-07 15:05:22,029 - __main__ - INFO - Dashboard válasz: STOPPED <unnamed>
+2025-05-07 15:05:26,797 - __main__ - INFO - Mozgás a 'home' pozícióba: [0.0, -1.57, 0.0, -1.57, 0.0, 0.0]
+2025-05-07 15:05:26,797 - __main__ - INFO - Script küldése...
+2025-05-07 15:05:26,797 - __main__ - INFO - Script elküldve
+2025-05-07 15:10:33,323 - __main__ - INFO - Dashboard parancs: robotmode
+2025-05-07 15:10:33,324 - __main__ - ERROR - Hiba a Dashboard parancs küldésekor: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-07 15:10:33,324 - __main__ - INFO - Dashboard kapcsolat lezárva
+2025-05-07 15:10:33,325 - __main__ - ERROR - Nincs kapcsolat a Dashboard szerverrel
+2025-05-07 15:10:33,325 - __main__ - ERROR - Nincs kapcsolat a Dashboard szerverrel
+2025-05-07 15:14:11,428 - __main__ - INFO - Dashboard kapcsolat: Connected: Universal Robots Dashboard Server
+2025-05-07 15:14:11,531 - __main__ - INFO - Kapcsolódva a robothoz URScript interfészen (port 30002)
+2025-05-07 15:14:15,449 - __main__ - INFO - Dashboard parancs: robotmode
+2025-05-07 15:14:15,488 - __main__ - INFO - Dashboard válasz: Robotmode: RUNNING
+2025-05-07 15:14:15,488 - __main__ - INFO - Dashboard parancs: safetystatus
+2025-05-07 15:14:15,577 - __main__ - INFO - Dashboard válasz: Safetystatus: NORMAL
+2025-05-07 15:14:15,593 - __main__ - INFO - Dashboard parancs: programstate
+2025-05-07 15:14:15,791 - __main__ - INFO - Dashboard válasz: STOPPED <unnamed>
+2025-05-07 15:14:26,333 - __main__ - INFO - Mozgás a 'home' pozícióba: [0.0, -5.061457000000001, -0.6981320000000001, 0.03839726000000001, 0.03839726000000001, 0.0]
+2025-05-07 15:14:26,333 - __main__ - INFO - Script küldése...
+2025-05-07 15:14:26,333 - __main__ - INFO - Script elküldve
+2025-05-07 15:14:41,357 - __main__ - INFO - Dashboard kapcsolat: Connected: Universal Robots Dashboard Server
+2025-05-07 15:14:41,591 - __main__ - INFO - Kapcsolódva a robothoz URScript interfészen (port 30002)
+2025-05-07 15:14:43,558 - __main__ - INFO - Dashboard parancs: robotmode
+2025-05-07 15:14:43,750 - __main__ - INFO - Dashboard válasz: Robotmode: RUNNING
+2025-05-07 15:14:43,766 - __main__ - INFO - Dashboard parancs: safetystatus
+2025-05-07 15:14:43,854 - __main__ - INFO - Dashboard válasz: Safetystatus: NORMAL
+2025-05-07 15:14:43,854 - __main__ - INFO - Dashboard parancs: programstate
+2025-05-07 15:14:44,073 - __main__ - INFO - Dashboard válasz: STOPPED <unnamed>
+2025-05-07 15:14:50,378 - __main__ - INFO - Mozgás a 'home' pozícióba: [0.0, -5.061457000000001, -0.6981320000000001, 0.03839726000000001, 0.03839726000000001, 0.0]
+2025-05-07 15:14:50,378 - __main__ - INFO - Script küldése...
+2025-05-07 15:14:50,378 - __main__ - INFO - Script elküldve
+2025-05-07 15:15:08,229 - __main__ - INFO - Mozgás a 'position1' pozícióba: [-37, -295, -10, 2.2, 2.2, 0]
+2025-05-07 15:15:08,229 - __main__ - INFO - Script küldése...
+2025-05-07 15:15:08,229 - __main__ - INFO - Script elküldve

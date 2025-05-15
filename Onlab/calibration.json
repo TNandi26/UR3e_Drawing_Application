@@ -1,0 +1,11 @@
+{
+    "drawing_surface": -145,
+    "home_position": [ -37, -295, -42, 2.2, 2.2, 0],
+    "default_speed": 0.1,
+    "default_acc": 0.5,
+    "robot_ip": "10.150.0.1",
+    "robot_port": 30002,
+    "rtde_port": 30004,
+    "dashboard_port": 29999,
+    "blend": 0.001
+}

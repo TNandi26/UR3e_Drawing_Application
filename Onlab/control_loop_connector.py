@@ -27,7 +27,7 @@ import logging
 from connector import RTDEConnect
 sys.path.append('..')
 
-ROBOT_HOST = '192.168.0.2'
+ROBOT_HOST = '10.150.0.1'
 ROBOT_PORT = 30004
 config_filename = 'control_loop_configuration.xml'
 

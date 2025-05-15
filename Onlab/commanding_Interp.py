@@ -7,7 +7,7 @@ import sys
 import time
 import datetime as dt
 
-ROBOT_HOST = '192.168.0.2'
+ROBOT_HOST = '10.150.0.1'
 rtde_config = 'rtdeState.xml'
 robotCommands = 'pnp.txt'
 # Enter robot path to Interpret.urp file

@@ -1,0 +1,769 @@
+2025-05-10 09:08:30,592 - __main__ - INFO - Trajektória mentve svg/square.json fájlba 4 ponttal.
+2025-05-10 09:08:57,618 - __main__ - INFO - Trajektória mentve svg/square.json fájlba 4 ponttal.
+2025-05-10 09:11:00,201 - __main__ - INFO - Trajektória mentve svg/star.json fájlba 10 ponttal.
+2025-05-10 09:11:45,206 - __main__ - INFO - Trajektória mentve svg/diamond.json fájlba 38 ponttal.
+2025-05-10 09:12:07,688 - __main__ - INFO - Trajektória mentve svg/proper_diamond.json fájlba 4 ponttal.
+2025-05-11 13:44:58,380 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 13:44:58,382 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 13:44:58,382 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 13:44:58,387 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 13:44:58,388 - __main__ - INFO - Parsing SVG file: svg/square.svg
+2025-05-11 13:44:58,395 - __main__ - INFO - Found path with d attribute: M 50,50 L 150,50 L 150,150 L 50,150 Z...
+2025-05-11 13:44:58,395 - __main__ - INFO - Found 4 drawing commands
+2025-05-11 13:44:58,395 - __main__ - INFO - Extracted 4 drawing commands
+2025-05-11 13:44:58,395 - __main__ - INFO - After closing paths: 4 commands
+2025-05-11 13:44:58,395 - __main__ - INFO - Path optimization: 4 -> 4 commands
+2025-05-11 13:44:58,395 - __main__ - INFO - After path optimization: 4 commands
+2025-05-11 13:44:58,395 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 13:44:58,396 - __main__ - INFO - Drawing bounds: X=[50.0, 150.0], Y=[50.0, 150.0]
+2025-05-11 13:44:58,396 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-11 13:44:58,396 - __main__ - INFO - Scaling factors: X=2.1, Y=2.1
+2025-05-11 13:44:58,396 - __main__ - INFO - Transformed 4 commands to robot coordinates
+2025-05-11 13:44:58,396 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 13:44:58,396 - __main__ - INFO - Generated trajectory with 7 points
+2025-05-11 13:44:58,396 - __main__ - INFO - Conversion complete. Trajectory has 7 points
+2025-05-11 13:44:58,396 - __main__ - INFO - Created directory: draings
+2025-05-11 13:44:58,397 - __main__ - ERROR - Error saving trajectory: [Errno 13] Permission denied: 'draings/'
+2025-05-11 13:44:58,397 - __main__ - ERROR - Fallback save also failed: [Errno 2] No such file or directory: ''
+2025-05-11 13:45:10,102 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 13:45:10,102 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 13:45:10,102 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 13:45:10,108 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 13:45:10,109 - __main__ - INFO - Parsing SVG file: svg/square.svg
+2025-05-11 13:45:10,110 - __main__ - INFO - Found path with d attribute: M 50,50 L 150,50 L 150,150 L 50,150 Z...
+2025-05-11 13:45:10,110 - __main__ - INFO - Found 4 drawing commands
+2025-05-11 13:45:10,110 - __main__ - INFO - Extracted 4 drawing commands
+2025-05-11 13:45:10,111 - __main__ - INFO - After closing paths: 4 commands
+2025-05-11 13:45:10,111 - __main__ - INFO - Path optimization: 4 -> 4 commands
+2025-05-11 13:45:10,111 - __main__ - INFO - After path optimization: 4 commands
+2025-05-11 13:45:10,111 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 13:45:10,111 - __main__ - INFO - Drawing bounds: X=[50.0, 150.0], Y=[50.0, 150.0]
+2025-05-11 13:45:10,111 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-11 13:45:10,111 - __main__ - INFO - Scaling factors: X=2.1, Y=2.1
+2025-05-11 13:45:10,112 - __main__ - INFO - Transformed 4 commands to robot coordinates
+2025-05-11 13:45:10,112 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 13:45:10,112 - __main__ - INFO - Generated trajectory with 7 points
+2025-05-11 13:45:10,112 - __main__ - INFO - Conversion complete. Trajectory has 7 points
+2025-05-11 13:45:10,112 - __main__ - ERROR - Error saving trajectory: [Errno 13] Permission denied: 'drawings/'
+2025-05-11 13:45:10,113 - __main__ - ERROR - Fallback save also failed: [Errno 2] No such file or directory: ''
+2025-05-11 13:45:33,806 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 13:45:33,806 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 13:45:33,806 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 13:45:33,812 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 13:45:33,812 - __main__ - INFO - Parsing SVG file: svg/square.svg
+2025-05-11 13:45:33,814 - __main__ - INFO - Found path with d attribute: M 50,50 L 150,50 L 150,150 L 50,150 Z...
+2025-05-11 13:45:33,814 - __main__ - INFO - Found 4 drawing commands
+2025-05-11 13:45:33,814 - __main__ - INFO - Extracted 4 drawing commands
+2025-05-11 13:45:33,814 - __main__ - INFO - After closing paths: 4 commands
+2025-05-11 13:45:33,815 - __main__ - INFO - Path optimization: 4 -> 4 commands
+2025-05-11 13:45:33,815 - __main__ - INFO - After path optimization: 4 commands
+2025-05-11 13:45:33,815 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 13:45:33,815 - __main__ - INFO - Drawing bounds: X=[50.0, 150.0], Y=[50.0, 150.0]
+2025-05-11 13:45:33,815 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-11 13:45:33,815 - __main__ - INFO - Scaling factors: X=2.1, Y=2.1
+2025-05-11 13:45:33,815 - __main__ - INFO - Transformed 4 commands to robot coordinates
+2025-05-11 13:45:33,816 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 13:45:33,816 - __main__ - INFO - Generated trajectory with 7 points
+2025-05-11 13:45:33,816 - __main__ - INFO - Conversion complete. Trajectory has 7 points
+2025-05-11 13:45:33,816 - __main__ - ERROR - Error saving trajectory: [Errno 13] Permission denied: 'drawings'
+2025-05-11 13:45:33,817 - __main__ - ERROR - Fallback save also failed: [Errno 13] Permission denied: 'drawings'
+2025-05-11 13:45:51,885 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 13:45:51,885 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 13:45:51,885 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 13:45:51,891 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 13:45:51,892 - __main__ - INFO - Parsing SVG file: svg/square.svg
+2025-05-11 13:45:51,893 - __main__ - INFO - Found path with d attribute: M 50,50 L 150,50 L 150,150 L 50,150 Z...
+2025-05-11 13:45:51,893 - __main__ - INFO - Found 4 drawing commands
+2025-05-11 13:45:51,893 - __main__ - INFO - Extracted 4 drawing commands
+2025-05-11 13:45:51,894 - __main__ - INFO - After closing paths: 4 commands
+2025-05-11 13:45:51,894 - __main__ - INFO - Path optimization: 4 -> 4 commands
+2025-05-11 13:45:51,894 - __main__ - INFO - After path optimization: 4 commands
+2025-05-11 13:45:51,894 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 13:45:51,894 - __main__ - INFO - Drawing bounds: X=[50.0, 150.0], Y=[50.0, 150.0]
+2025-05-11 13:45:51,894 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-11 13:45:51,894 - __main__ - INFO - Scaling factors: X=2.1, Y=2.1
+2025-05-11 13:45:51,894 - __main__ - INFO - Transformed 4 commands to robot coordinates
+2025-05-11 13:45:51,894 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 13:45:51,894 - __main__ - INFO - Generated trajectory with 7 points
+2025-05-11 13:45:51,895 - __main__ - INFO - Conversion complete. Trajectory has 7 points
+2025-05-11 13:45:51,895 - __main__ - INFO - Trajectory saved to svg/square.json
+2025-05-11 13:50:48,936 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 13:50:48,936 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 13:50:48,936 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 13:50:48,941 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 13:50:48,942 - __main__ - INFO - Parsing SVG file: svg/star.svg
+2025-05-11 13:50:48,950 - __main__ - INFO - Found path with d attribute: M 105,98.5 L 120,133.5 L 155,133.5 L 130,153.5 L 1...
+2025-05-11 13:50:48,950 - __main__ - INFO - Found 10 drawing commands
+2025-05-11 13:50:48,951 - __main__ - INFO - Extracted 10 drawing commands
+2025-05-11 13:50:48,951 - __main__ - INFO - After closing paths: 10 commands
+2025-05-11 13:50:48,951 - __main__ - INFO - Path optimization: 10 -> 10 commands
+2025-05-11 13:50:48,951 - __main__ - INFO - After path optimization: 10 commands
+2025-05-11 13:50:48,951 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 13:50:48,951 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 188.5]
+2025-05-11 13:50:48,951 - __main__ - INFO - Drawing size: 100.0 x 90.0
+2025-05-11 13:50:48,952 - __main__ - INFO - Scaling factors: X=2.1, Y=2.1
+2025-05-11 13:50:48,952 - __main__ - INFO - Transformed 10 commands to robot coordinates
+2025-05-11 13:50:48,952 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 13:50:48,952 - __main__ - INFO - Generated trajectory with 13 points
+2025-05-11 13:50:48,952 - __main__ - INFO - Conversion complete. Trajectory has 13 points
+2025-05-11 13:50:48,953 - __main__ - INFO - Trajectory saved to svg/star.json
+2025-05-11 13:52:08,624 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 13:52:08,624 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 13:52:08,624 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 13:52:08,629 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 13:52:08,630 - __main__ - INFO - Parsing SVG file: svg/spiral.svg
+2025-05-11 13:52:08,640 - __main__ - INFO - Found path with d attribute: M 105,148.5 L 110.2,148.5 L 110.37945136969543,148...
+2025-05-11 13:52:08,640 - __main__ - INFO - Found 217 drawing commands
+2025-05-11 13:52:08,641 - __main__ - INFO - Extracted 217 drawing commands
+2025-05-11 13:52:08,641 - __main__ - INFO - After closing paths: 217 commands
+2025-05-11 13:52:08,641 - __main__ - INFO - Path optimization: 217 -> 217 commands
+2025-05-11 13:52:08,641 - __main__ - INFO - After path optimization: 217 commands
+2025-05-11 13:52:08,641 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 13:52:08,642 - __main__ - INFO - Drawing bounds: X=[63.75753949900169, 153.0165844480223], Y=[103.67123858587135, 186.156159587868]
+2025-05-11 13:52:08,642 - __main__ - INFO - Drawing size: 89.25904494902059 x 82.48492100199664
+2025-05-11 13:52:08,642 - __main__ - INFO - Scaling factors: X=2.3527027442422153, Y=2.3527027442422153
+2025-05-11 13:52:08,642 - __main__ - INFO - Transformed 217 commands to robot coordinates
+2025-05-11 13:52:08,642 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 13:52:08,643 - __main__ - INFO - Generated trajectory with 220 points
+2025-05-11 13:52:08,643 - __main__ - INFO - Conversion complete. Trajectory has 220 points
+2025-05-11 13:52:08,646 - __main__ - INFO - Trajectory saved to svg/spiral.json
+2025-05-11 13:56:42,050 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 13:56:42,050 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 13:56:42,051 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 13:56:42,056 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 13:56:42,057 - __main__ - INFO - Parsing SVG file: svg/circle.svg
+2025-05-11 13:56:42,065 - __main__ - INFO - Found circle: cx=105.0, cy=148.5, r=50.0
+2025-05-11 13:56:42,066 - __main__ - INFO - Found 37 drawing commands
+2025-05-11 13:56:42,066 - __main__ - INFO - Extracted 37 drawing commands
+2025-05-11 13:56:42,066 - __main__ - INFO - After closing paths: 37 commands
+2025-05-11 13:56:42,066 - __main__ - INFO - Path optimization: 37 -> 37 commands
+2025-05-11 13:56:42,066 - __main__ - INFO - After path optimization: 37 commands
+2025-05-11 13:56:42,067 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 13:56:42,067 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 198.5]
+2025-05-11 13:56:42,067 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-11 13:56:42,067 - __main__ - INFO - Scaling factors: X=2.1, Y=2.1
+2025-05-11 13:56:42,067 - __main__ - INFO - Transformed 37 commands to robot coordinates
+2025-05-11 13:56:42,067 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 13:56:42,067 - __main__ - INFO - Generated trajectory with 40 points
+2025-05-11 13:56:42,068 - __main__ - INFO - Conversion complete. Trajectory has 40 points
+2025-05-11 13:56:42,069 - __main__ - INFO - Trajectory saved to svg/circle.json
+2025-05-11 14:14:04,310 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 14:14:04,312 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 14:14:04,312 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 14:14:04,317 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 14:14:04,317 - __main__ - INFO - Parsing SVG file: svg/flower.svg
+2025-05-11 14:14:04,327 - __main__ - INFO - Found path with d attribute: M40790 70430 c-403 -11 -813 -30 -1215 -55 -134 -9 ...
+2025-05-11 14:14:04,331 - __main__ - INFO - Found 4298 drawing commands
+2025-05-11 14:14:04,331 - __main__ - INFO - Extracted 4298 drawing commands
+2025-05-11 14:14:04,332 - __main__ - INFO - After closing paths: 4298 commands
+2025-05-11 14:14:04,333 - __main__ - INFO - Path optimization: 4298 -> 4298 commands
+2025-05-11 14:14:04,333 - __main__ - INFO - After path optimization: 4298 commands
+2025-05-11 14:14:04,333 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 14:14:04,334 - __main__ - INFO - Drawing bounds: X=[11265.288, 68736.335], Y=[9565.0, 70434.64000000001]
+2025-05-11 14:14:04,335 - __main__ - INFO - Drawing size: 57471.047000000006 x 60869.640000000014
+2025-05-11 14:14:04,335 - __main__ - INFO - Scaling factors: X=0.0036540138202110703, Y=0.0036540138202110703
+2025-05-11 14:14:04,336 - __main__ - INFO - Transformed 4298 commands to robot coordinates
+2025-05-11 14:14:04,336 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 14:14:04,338 - __main__ - INFO - Generated trajectory with 4315 points
+2025-05-11 14:14:04,338 - __main__ - INFO - Conversion complete. Trajectory has 4315 points
+2025-05-11 14:14:04,389 - __main__ - INFO - Trajectory saved to svg/flower.json
+2025-05-11 14:16:05,178 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 14:16:05,178 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 14:16:05,179 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 14:16:05,184 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 14:16:28,856 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 14:16:28,856 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 14:16:28,856 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 14:16:28,861 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 14:16:28,863 - __main__ - INFO - Parsing SVG file: svg/flower2.svg
+2025-05-11 14:16:28,871 - __main__ - INFO - Found path with d attribute: M2315 4843 c-31 -8 -55 -33 -82 -87 -50 -98 -97 -15...
+2025-05-11 14:16:28,875 - __main__ - INFO - Found 2585 drawing commands
+2025-05-11 14:16:28,875 - __main__ - INFO - Extracted 2585 drawing commands
+2025-05-11 14:16:28,875 - __main__ - INFO - After closing paths: 2585 commands
+2025-05-11 14:16:28,875 - __main__ - INFO - Path optimization: 2585 -> 2585 commands
+2025-05-11 14:16:28,876 - __main__ - INFO - After path optimization: 2585 commands
+2025-05-11 14:16:28,876 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 14:16:28,877 - __main__ - INFO - Drawing bounds: X=[170.0, 4500.25], Y=[162.125, 4848.2880000000005]
+2025-05-11 14:16:28,877 - __main__ - INFO - Drawing size: 4330.25 x 4686.1630000000005
+2025-05-11 14:16:28,877 - __main__ - INFO - Scaling factors: X=0.04849604526297558, Y=0.04849604526297558
+2025-05-11 14:16:28,877 - __main__ - INFO - Transformed 2585 commands to robot coordinates
+2025-05-11 14:16:28,878 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 14:16:28,878 - __main__ - INFO - Generated trajectory with 2616 points
+2025-05-11 14:16:28,879 - __main__ - INFO - Conversion complete. Trajectory has 2616 points
+2025-05-11 14:16:28,911 - __main__ - INFO - Trajectory saved to svg/flower2.json
+2025-05-11 15:01:57,564 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 15:01:57,564 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 15:01:57,564 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 15:01:57,569 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 15:02:05,457 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 15:02:05,457 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 15:02:05,457 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 15:02:05,462 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 15:02:05,462 - __main__ - INFO - Parsing SVG file: svg/leaves-1.svg
+2025-05-11 15:02:05,471 - __main__ - INFO - Found path with d attribute: m137.86,273.92c.7-2.12,1.56-4.04,1.96-6.1.16-.83.3...
+2025-05-11 15:02:05,473 - __main__ - INFO - Found path with d attribute: m342.13,341.6c-.41-2.11-.86-4.22-1.23-6.34-.4-2.27...
+2025-05-11 15:02:05,475 - __main__ - INFO - Found path with d attribute: m373.3,184.48c.51-.79,1.35-1.15,2.05-1.69,1.19-.92...
+2025-05-11 15:02:05,476 - __main__ - INFO - Found path with d attribute: m373.28,184.46c-.02.18,0,.35-.21.48-1.55,1.01-3.06...
+2025-05-11 15:02:05,476 - __main__ - INFO - Found path with d attribute: m375.02,118.64c.73-.96,1.36-1.89,2.1-2.73.53-.6.87...
+2025-05-11 15:02:05,476 - __main__ - INFO - Found path with d attribute: m356.47,141.56c-.92,1.34-1.99,2.56-3.15,3.79-.02-....
+2025-05-11 15:02:05,476 - __main__ - INFO - Found path with d attribute: m346.89,153.23c-.22-.75.47-1.13.79-1.55.66-.86,1.3...
+2025-05-11 15:02:05,476 - __main__ - INFO - Found path with d attribute: m350.1,148.8c.83-.9,1.43-1.99,2.39-2.77.06.05.13.1...
+2025-05-11 15:02:05,476 - __main__ - INFO - Found path with d attribute: m369.48,126.01c.55-1.16,1.52-1.98,2.33-2.93-.83.93...
+2025-05-11 15:02:05,476 - __main__ - INFO - Found path with d attribute: m359.15,138.32c-.52.92-1.27,1.63-1.95,2.51.07-.62,...
+2025-05-11 15:02:05,477 - __main__ - INFO - Found path with d attribute: m365.36,131.11c-.43.61-.74,1.32-1.46,1.67.34-.68.8...
+2025-05-11 15:02:05,477 - __main__ - INFO - Found path with d attribute: m368.16,127.57c-.14.67-.53,1.16-1.13,1.48.3-.55.62...
+2025-05-11 15:02:05,477 - __main__ - INFO - Found path with d attribute: m373.12,121.24c.36-.5.73-1,1.15-1.58,0,.61-.67,1.4...
+2025-05-11 15:02:05,477 - __main__ - INFO - Found path with d attribute: m360.74,136.32c.37-.4.54-1,1.25-1.3-.31.67-.73,1.0...
+2025-05-11 15:02:05,477 - __main__ - INFO - Found path with d attribute: m373.11,121.23c.12.79-.7.91-.96,1.44.21-.56.55-1.0...
+2025-05-11 15:02:05,477 - __main__ - INFO - Found path with d attribute: m369.46,125.99c-.24.69-.68,1.21-1.3,1.58,0,0,.02.0...
+2025-05-11 15:02:05,477 - __main__ - INFO - Found path with d attribute: m519.97,98.8c0-.95,0-1.88-.42-2.79-.8-1.72-1.54-3....
+2025-05-11 15:02:05,479 - __main__ - INFO - Found path with d attribute: m446.02,95.72c2.1.27,4.18.6,6.29.71,1.54.09,3.07.1...
+2025-05-11 15:02:05,479 - __main__ - INFO - Found path with d attribute: m447.08,27.16c1.65,1.23,3,2.8,4.56,4.12-1.66-1.22-...
+2025-05-11 15:02:05,480 - __main__ - INFO - Found path with d attribute: m469.09,43.76c-.5.16-.82-.24-1.17-.44-.95-.53-1.95...
+2025-05-11 15:02:05,480 - __main__ - INFO - Found path with d attribute: m464.74,41.23c-.97-.46-1.76-1.18-2.57-1.87.97.46,1...
+2025-05-11 15:02:05,480 - __main__ - INFO - Found path with d attribute: m458.52,36.8c.96.53,1.88,1.12,2.71,1.84-1-.46-1.87...
+2025-05-11 15:02:05,480 - __main__ - INFO - Found path with d attribute: m458.12,36.47c-.92-.37-1.64-1.05-2.37-1.69.9.41,1....
+2025-05-11 15:02:05,480 - __main__ - INFO - Found path with d attribute: m452.71,32.23c.82.5,1.53,1.13,2.2,1.82-.85-.46-1.5...
+2025-05-11 15:02:05,480 - __main__ - INFO - Found path with d attribute: m442.13,23.19c.42.22.82.49,1.11.88-.45-.19-.78-.54...
+2025-05-11 15:02:05,480 - __main__ - INFO - Found path with d attribute: m588.42,172.82c1.55-1.5,3.1-3,4.65-4.5.05.05.1.11....
+2025-05-11 15:02:05,482 - __main__ - INFO - Found path with d attribute: m595.21,166.2c-.27.7-.89,1.08-1.4,1.57.34-.64.89-1...
+2025-05-11 15:02:05,482 - __main__ - INFO - Found path with d attribute: m573.58,126.24c.54-.96,1.06-1.93,1.84-2.92-.4,1.13...
+2025-05-11 15:02:05,482 - __main__ - INFO - Found path with d attribute: m576.7,121.18c-.28.58-.47,1.21-1.01,1.63.21-.62.6-...
+2025-05-11 15:02:05,482 - __main__ - INFO - Found path with d attribute: m509.59,227.57c-.69-.34-1.36-.71-1.92-1.26.7.32,1....
+2025-05-11 15:02:05,482 - __main__ - INFO - Found path with d attribute: m571.48,231.97c.03.12.11.26.07.34-.34.68-.77,1.31-...
+2025-05-11 15:02:05,482 - __main__ - INFO - Found path with d attribute: m560.76,246.93c-.18.59-.65.98-1.01,1.44.2-.58.62-1...
+2025-05-11 15:02:05,482 - __main__ - INFO - Found path with d attribute: m566.65,238.99c.18-.48.52-.84.87-1.2-.15.5-.55.82-...
+2025-05-11 15:02:05,483 - __main__ - INFO - Found 2129 drawing commands
+2025-05-11 15:02:05,483 - __main__ - INFO - Extracted 2129 drawing commands
+2025-05-11 15:02:05,483 - __main__ - INFO - After closing paths: 2129 commands
+2025-05-11 15:02:05,483 - __main__ - INFO - Path optimization: 2129 -> 2129 commands
+2025-05-11 15:02:05,483 - __main__ - INFO - After path optimization: 2129 commands
+2025-05-11 15:02:05,484 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 15:02:05,484 - __main__ - INFO - Drawing bounds: X=[0.0, 792.7800000000001], Y=[4.37, 828.3975199999999]
+2025-05-11 15:02:05,484 - __main__ - INFO - Drawing size: 792.7800000000001 x 824.0275199999999
+2025-05-11 15:02:05,484 - __main__ - INFO - Scaling factors: X=0.26489063800802237, Y=0.26489063800802237
+2025-05-11 15:02:05,485 - __main__ - INFO - Transformed 2129 commands to robot coordinates
+2025-05-11 15:02:05,485 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 15:02:05,486 - __main__ - INFO - Generated trajectory with 2164 points
+2025-05-11 15:02:05,486 - __main__ - INFO - Conversion complete. Trajectory has 2164 points
+2025-05-11 15:02:05,510 - __main__ - INFO - Trajectory saved to svg/leaves-1.json
+2025-05-11 15:09:35,586 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 15:09:35,586 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 15:09:35,586 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 15:09:35,593 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 15:09:35,594 - __main__ - INFO - Parsing SVG file: svg/pentagon.svg
+2025-05-11 15:09:35,602 - __main__ - INFO - Found path with d attribute: M1475 4530 c-803 -583 -1462 -1065 -1463 -1071 -2 -...
+2025-05-11 15:09:35,603 - __main__ - INFO - Found 120 drawing commands
+2025-05-11 15:09:35,604 - __main__ - INFO - Extracted 120 drawing commands
+2025-05-11 15:09:35,604 - __main__ - INFO - After closing paths: 120 commands
+2025-05-11 15:09:35,604 - __main__ - INFO - Path optimization: 120 -> 120 commands
+2025-05-11 15:09:35,604 - __main__ - INFO - After path optimization: 120 commands
+2025-05-11 15:09:35,605 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 15:09:35,605 - __main__ - INFO - Drawing bounds: X=[12.0, 5870.0], Y=[10.0, 5586.0]
+2025-05-11 15:09:35,605 - __main__ - INFO - Drawing size: 5858.0 x 5576.0
+2025-05-11 15:09:35,606 - __main__ - INFO - Scaling factors: X=0.03584841242744964, Y=0.03584841242744964
+2025-05-11 15:09:35,606 - __main__ - INFO - Transformed 120 commands to robot coordinates
+2025-05-11 15:09:35,606 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 15:09:35,606 - __main__ - INFO - Generated trajectory with 125 points
+2025-05-11 15:09:35,606 - __main__ - INFO - Conversion complete. Trajectory has 125 points
+2025-05-11 15:09:35,609 - __main__ - INFO - Trajectory saved to svg/pentagon.json
+2025-05-11 15:13:33,919 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 15:13:33,919 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 15:13:33,919 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 15:13:33,924 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 15:13:33,925 - __main__ - INFO - Parsing SVG file: svg/pentagon.svg
+2025-05-11 15:13:33,925 - __main__ - INFO - Found path with d attribute: M 105,70 L 155,115 L 135,175 L 75,175 L 55,115 Z...
+2025-05-11 15:13:33,925 - __main__ - INFO - Found 5 drawing commands
+2025-05-11 15:13:33,926 - __main__ - INFO - Extracted 5 drawing commands
+2025-05-11 15:13:33,926 - __main__ - INFO - After closing paths: 5 commands
+2025-05-11 15:13:33,926 - __main__ - INFO - Path optimization: 5 -> 5 commands
+2025-05-11 15:13:33,926 - __main__ - INFO - After path optimization: 5 commands
+2025-05-11 15:13:33,926 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 15:13:33,926 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[70.0, 175.0]
+2025-05-11 15:13:33,926 - __main__ - INFO - Drawing size: 100.0 x 105.0
+2025-05-11 15:13:33,926 - __main__ - INFO - Scaling factors: X=2.1, Y=2.1
+2025-05-11 15:13:33,927 - __main__ - INFO - Transformed 5 commands to robot coordinates
+2025-05-11 15:13:33,927 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 15:13:33,927 - __main__ - INFO - Generated trajectory with 8 points
+2025-05-11 15:13:33,927 - __main__ - INFO - Conversion complete. Trajectory has 8 points
+2025-05-11 15:13:33,928 - __main__ - INFO - Trajectory saved to svg/pentagon.json
+2025-05-11 15:13:41,716 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-11 15:13:41,716 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-11 15:13:41,716 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-11 15:13:41,721 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-11 15:13:41,721 - __main__ - INFO - Parsing SVG file: svg/pentagon.svg
+2025-05-11 15:13:41,723 - __main__ - INFO - Found path with d attribute: M 105,70 L 155,115 L 135,175 L 75,175 L 55,115 Z...
+2025-05-11 15:13:41,723 - __main__ - INFO - Found 5 drawing commands
+2025-05-11 15:13:41,723 - __main__ - INFO - Extracted 5 drawing commands
+2025-05-11 15:13:41,723 - __main__ - INFO - After closing paths: 5 commands
+2025-05-11 15:13:41,724 - __main__ - INFO - Path optimization: 5 -> 5 commands
+2025-05-11 15:13:41,724 - __main__ - INFO - After path optimization: 5 commands
+2025-05-11 15:13:41,724 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-11 15:13:41,724 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[70.0, 175.0]
+2025-05-11 15:13:41,724 - __main__ - INFO - Drawing size: 100.0 x 105.0
+2025-05-11 15:13:41,724 - __main__ - INFO - Scaling factors: X=2.1, Y=2.1
+2025-05-11 15:13:41,724 - __main__ - INFO - Transformed 5 commands to robot coordinates
+2025-05-11 15:13:41,724 - __main__ - INFO - Generating robot trajectory...
+2025-05-11 15:13:41,724 - __main__ - INFO - Generated trajectory with 8 points
+2025-05-11 15:13:41,724 - __main__ - INFO - Conversion complete. Trajectory has 8 points
+2025-05-11 15:13:41,725 - __main__ - INFO - Trajectory saved to svg/pentagon.json
+2025-05-14 10:25:10,250 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:25:10,270 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:25:10,270 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:25:10,483 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:25:10,483 - __main__ - INFO - Parsing SVG file: svg/circle.svg
+2025-05-14 10:25:10,499 - __main__ - INFO - Found circle: cx=105.0, cy=148.5, r=50.0
+2025-05-14 10:25:10,499 - __main__ - INFO - Found 37 drawing commands
+2025-05-14 10:25:10,499 - __main__ - INFO - Extracted 37 drawing commands
+2025-05-14 10:25:10,499 - __main__ - INFO - After closing paths: 37 commands
+2025-05-14 10:25:10,499 - __main__ - INFO - Path optimization: 37 -> 37 commands
+2025-05-14 10:25:10,499 - __main__ - INFO - After path optimization: 37 commands
+2025-05-14 10:25:10,499 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:25:10,499 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 198.5]
+2025-05-14 10:25:10,508 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-14 10:25:10,508 - __main__ - INFO - Scaling factors: X=1.05, Y=1.05
+2025-05-14 10:25:10,509 - __main__ - INFO - Transformed 37 commands to robot coordinates
+2025-05-14 10:25:10,509 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:25:10,509 - __main__ - INFO - Generated trajectory with 40 points
+2025-05-14 10:25:10,509 - __main__ - INFO - Conversion complete. Trajectory has 40 points
+2025-05-14 10:25:10,536 - __main__ - INFO - Trajectory saved to svg/circle.json
+2025-05-14 10:25:44,546 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:25:44,546 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:25:44,546 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:25:44,910 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:25:44,925 - __main__ - INFO - Parsing SVG file: svg/circle.svg
+2025-05-14 10:25:44,925 - __main__ - INFO - Found circle: cx=105.0, cy=148.5, r=50.0
+2025-05-14 10:25:44,925 - __main__ - INFO - Found 37 drawing commands
+2025-05-14 10:25:44,925 - __main__ - INFO - Extracted 37 drawing commands
+2025-05-14 10:25:44,925 - __main__ - INFO - After closing paths: 37 commands
+2025-05-14 10:25:44,925 - __main__ - INFO - Path optimization: 37 -> 37 commands
+2025-05-14 10:25:44,925 - __main__ - INFO - After path optimization: 37 commands
+2025-05-14 10:25:44,925 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:25:44,930 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 198.5]
+2025-05-14 10:25:44,930 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-14 10:25:44,930 - __main__ - INFO - Scaling factors: X=1.05, Y=1.05
+2025-05-14 10:25:44,930 - __main__ - INFO - Transformed 37 commands to robot coordinates
+2025-05-14 10:25:44,930 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:25:44,930 - __main__ - INFO - Generated trajectory with 40 points
+2025-05-14 10:25:44,930 - __main__ - INFO - Conversion complete. Trajectory has 40 points
+2025-05-14 10:25:44,931 - __main__ - ERROR - Error saving trajectory: [Errno 13] Permission denied: 'H:/Onlab/drawings/'
+2025-05-14 10:25:44,931 - __main__ - ERROR - Fallback save also failed: [Errno 2] No such file or directory: ''
+2025-05-14 10:26:15,685 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:26:15,700 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:26:15,700 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:26:16,040 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:26:16,040 - __main__ - INFO - Parsing SVG file: svg/circle.svg
+2025-05-14 10:26:16,040 - __main__ - INFO - Found circle: cx=105.0, cy=148.5, r=50.0
+2025-05-14 10:26:16,040 - __main__ - INFO - Found 37 drawing commands
+2025-05-14 10:26:16,040 - __main__ - INFO - Extracted 37 drawing commands
+2025-05-14 10:26:16,040 - __main__ - INFO - After closing paths: 37 commands
+2025-05-14 10:26:16,040 - __main__ - INFO - Path optimization: 37 -> 37 commands
+2025-05-14 10:26:16,040 - __main__ - INFO - After path optimization: 37 commands
+2025-05-14 10:26:16,040 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:26:16,040 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 198.5]
+2025-05-14 10:26:16,040 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-14 10:26:16,040 - __main__ - INFO - Scaling factors: X=1.05, Y=1.05
+2025-05-14 10:26:16,040 - __main__ - INFO - Transformed 37 commands to robot coordinates
+2025-05-14 10:26:16,040 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:26:16,040 - __main__ - INFO - Generated trajectory with 40 points
+2025-05-14 10:26:16,040 - __main__ - INFO - Conversion complete. Trajectory has 40 points
+2025-05-14 10:26:16,048 - __main__ - ERROR - Error saving trajectory: [Errno 13] Permission denied: 'drawings'
+2025-05-14 10:26:16,048 - __main__ - ERROR - Fallback save also failed: [Errno 13] Permission denied: 'drawings'
+2025-05-14 10:26:32,268 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:26:32,268 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:26:32,277 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:26:32,591 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:26:32,591 - __main__ - INFO - Parsing SVG file: svg/circle.svg
+2025-05-14 10:26:32,591 - __main__ - INFO - Found circle: cx=105.0, cy=148.5, r=50.0
+2025-05-14 10:26:32,591 - __main__ - INFO - Found 37 drawing commands
+2025-05-14 10:26:32,591 - __main__ - INFO - Extracted 37 drawing commands
+2025-05-14 10:26:32,591 - __main__ - INFO - After closing paths: 37 commands
+2025-05-14 10:26:32,591 - __main__ - INFO - Path optimization: 37 -> 37 commands
+2025-05-14 10:26:32,591 - __main__ - INFO - After path optimization: 37 commands
+2025-05-14 10:26:32,591 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:26:32,591 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 198.5]
+2025-05-14 10:26:32,591 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-14 10:26:32,591 - __main__ - INFO - Scaling factors: X=1.05, Y=1.05
+2025-05-14 10:26:32,591 - __main__ - INFO - Transformed 37 commands to robot coordinates
+2025-05-14 10:26:32,604 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:26:32,604 - __main__ - INFO - Generated trajectory with 40 points
+2025-05-14 10:26:32,604 - __main__ - INFO - Conversion complete. Trajectory has 40 points
+2025-05-14 10:26:32,604 - __main__ - ERROR - Error saving trajectory: [Errno 13] Permission denied: 'drawings/'
+2025-05-14 10:26:32,605 - __main__ - ERROR - Fallback save also failed: [Errno 2] No such file or directory: ''
+2025-05-14 10:28:42,555 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:28:42,555 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:28:42,555 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:28:42,886 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:28:42,902 - __main__ - INFO - Parsing SVG file: svg/circle.svg
+2025-05-14 10:28:42,912 - __main__ - INFO - Found circle: cx=105.0, cy=148.5, r=50.0
+2025-05-14 10:28:42,914 - __main__ - INFO - Found 37 drawing commands
+2025-05-14 10:28:42,914 - __main__ - INFO - Extracted 37 drawing commands
+2025-05-14 10:28:42,915 - __main__ - INFO - After closing paths: 37 commands
+2025-05-14 10:28:42,916 - __main__ - INFO - Path optimization: 37 -> 37 commands
+2025-05-14 10:28:42,917 - __main__ - INFO - After path optimization: 37 commands
+2025-05-14 10:28:42,917 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:28:42,917 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 198.5]
+2025-05-14 10:28:42,921 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-14 10:28:42,922 - __main__ - INFO - Scaling factors: X=1.05, Y=1.05
+2025-05-14 10:28:42,923 - __main__ - INFO - Transformed 37 commands to robot coordinates
+2025-05-14 10:28:42,924 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:28:42,925 - __main__ - INFO - Generated trajectory with 40 points
+2025-05-14 10:28:42,926 - __main__ - INFO - Conversion complete. Trajectory has 40 points
+2025-05-14 10:28:42,959 - __main__ - INFO - Trajectory saved to drawings/circle.json
+2025-05-14 10:29:25,547 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:29:25,547 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:29:25,547 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:29:25,850 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:29:25,865 - __main__ - INFO - Parsing SVG file: svg/square.svg
+2025-05-14 10:29:25,890 - __main__ - INFO - Found path with d attribute: M 50,50 L 150,50 L 150,150 L 50,150 Z...
+2025-05-14 10:29:25,891 - __main__ - INFO - Found 4 drawing commands
+2025-05-14 10:29:25,891 - __main__ - INFO - Extracted 4 drawing commands
+2025-05-14 10:29:25,892 - __main__ - INFO - After closing paths: 4 commands
+2025-05-14 10:29:25,892 - __main__ - INFO - Path optimization: 4 -> 4 commands
+2025-05-14 10:29:25,893 - __main__ - INFO - After path optimization: 4 commands
+2025-05-14 10:29:25,894 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:29:25,894 - __main__ - INFO - Drawing bounds: X=[50.0, 150.0], Y=[50.0, 150.0]
+2025-05-14 10:29:25,895 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-14 10:29:25,895 - __main__ - INFO - Scaling factors: X=1.05, Y=1.05
+2025-05-14 10:29:25,895 - __main__ - INFO - Transformed 4 commands to robot coordinates
+2025-05-14 10:29:25,896 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:29:25,896 - __main__ - INFO - Generated trajectory with 7 points
+2025-05-14 10:29:25,897 - __main__ - INFO - Conversion complete. Trajectory has 7 points
+2025-05-14 10:29:25,921 - __main__ - INFO - Trajectory saved to drawings/square.json
+2025-05-14 10:29:56,697 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:29:56,697 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:29:56,712 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:29:56,997 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:29:57,012 - __main__ - INFO - Parsing SVG file: svg/star.svg
+2025-05-14 10:29:57,014 - __main__ - INFO - Found path with d attribute: M 105,98.5 L 120,133.5 L 155,133.5 L 130,153.5 L 1...
+2025-05-14 10:29:57,014 - __main__ - INFO - Found 10 drawing commands
+2025-05-14 10:29:57,014 - __main__ - INFO - Extracted 10 drawing commands
+2025-05-14 10:29:57,014 - __main__ - INFO - After closing paths: 10 commands
+2025-05-14 10:29:57,014 - __main__ - INFO - Path optimization: 10 -> 10 commands
+2025-05-14 10:29:57,014 - __main__ - INFO - After path optimization: 10 commands
+2025-05-14 10:29:57,014 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:29:57,023 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 188.5]
+2025-05-14 10:29:57,023 - __main__ - INFO - Drawing size: 100.0 x 90.0
+2025-05-14 10:29:57,023 - __main__ - INFO - Scaling factors: X=1.05, Y=1.05
+2025-05-14 10:29:57,023 - __main__ - INFO - Transformed 10 commands to robot coordinates
+2025-05-14 10:29:57,023 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:29:57,024 - __main__ - INFO - Generated trajectory with 13 points
+2025-05-14 10:29:57,024 - __main__ - INFO - Conversion complete. Trajectory has 13 points
+2025-05-14 10:29:57,043 - __main__ - INFO - Trajectory saved to drawings/star.json
+2025-05-14 10:30:02,816 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:30:02,816 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:30:02,816 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:30:03,116 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:30:03,116 - __main__ - INFO - Parsing SVG file: svg/square.svg
+2025-05-14 10:30:03,116 - __main__ - INFO - Found path with d attribute: M 50,50 L 150,50 L 150,150 L 50,150 Z...
+2025-05-14 10:30:03,116 - __main__ - INFO - Found 4 drawing commands
+2025-05-14 10:30:03,116 - __main__ - INFO - Extracted 4 drawing commands
+2025-05-14 10:30:03,116 - __main__ - INFO - After closing paths: 4 commands
+2025-05-14 10:30:03,116 - __main__ - INFO - Path optimization: 4 -> 4 commands
+2025-05-14 10:30:03,116 - __main__ - INFO - After path optimization: 4 commands
+2025-05-14 10:30:03,116 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:30:03,116 - __main__ - INFO - Drawing bounds: X=[50.0, 150.0], Y=[50.0, 150.0]
+2025-05-14 10:30:03,116 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-14 10:30:03,116 - __main__ - INFO - Scaling factors: X=1.05, Y=1.05
+2025-05-14 10:30:03,116 - __main__ - INFO - Transformed 4 commands to robot coordinates
+2025-05-14 10:30:03,116 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:30:03,116 - __main__ - INFO - Generated trajectory with 7 points
+2025-05-14 10:30:03,116 - __main__ - INFO - Conversion complete. Trajectory has 7 points
+2025-05-14 10:30:03,167 - __main__ - INFO - Trajectory saved to drawings/square.json
+2025-05-14 10:30:08,014 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:30:08,014 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:30:08,014 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:30:08,300 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:30:08,301 - __main__ - INFO - Parsing SVG file: svg/spiral.svg
+2025-05-14 10:30:08,303 - __main__ - INFO - Found path with d attribute: M 105,148.5 L 110.2,148.5 L 110.37945136969543,148...
+2025-05-14 10:30:08,303 - __main__ - INFO - Found 217 drawing commands
+2025-05-14 10:30:08,303 - __main__ - INFO - Extracted 217 drawing commands
+2025-05-14 10:30:08,303 - __main__ - INFO - After closing paths: 217 commands
+2025-05-14 10:30:08,314 - __main__ - INFO - Path optimization: 217 -> 217 commands
+2025-05-14 10:30:08,314 - __main__ - INFO - After path optimization: 217 commands
+2025-05-14 10:30:08,314 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:30:08,315 - __main__ - INFO - Drawing bounds: X=[63.75753949900169, 153.0165844480223], Y=[103.67123858587135, 186.156159587868]
+2025-05-14 10:30:08,315 - __main__ - INFO - Drawing size: 89.25904494902059 x 82.48492100199664
+2025-05-14 10:30:08,315 - __main__ - INFO - Scaling factors: X=1.1763513721211076, Y=1.1763513721211076
+2025-05-14 10:30:08,315 - __main__ - INFO - Transformed 217 commands to robot coordinates
+2025-05-14 10:30:08,316 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:30:08,317 - __main__ - INFO - Generated trajectory with 220 points
+2025-05-14 10:30:08,317 - __main__ - INFO - Conversion complete. Trajectory has 220 points
+2025-05-14 10:30:08,368 - __main__ - INFO - Trajectory saved to drawings/spiral.json
+2025-05-14 10:30:29,917 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:30:29,917 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:30:29,935 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:30:30,211 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:54:08,278 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:54:08,288 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:54:08,293 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:54:08,598 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:54:08,598 - __main__ - INFO - Parsing SVG file: svg/square.svg
+2025-05-14 10:54:08,618 - __main__ - INFO - Found path with d attribute: M 50,50 L 150,50 L 150,150 L 50,150 Z...
+2025-05-14 10:54:08,618 - __main__ - INFO - Found 4 drawing commands
+2025-05-14 10:54:08,618 - __main__ - INFO - Extracted 4 drawing commands
+2025-05-14 10:54:08,618 - __main__ - INFO - After closing paths: 4 commands
+2025-05-14 10:54:08,618 - __main__ - INFO - Path optimization: 4 -> 4 commands
+2025-05-14 10:54:08,619 - __main__ - INFO - After path optimization: 4 commands
+2025-05-14 10:54:08,619 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:54:08,619 - __main__ - INFO - Drawing bounds: X=[50.0, 150.0], Y=[50.0, 150.0]
+2025-05-14 10:54:08,619 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-14 10:54:08,619 - __main__ - INFO - Scaling factors: X=0.525, Y=0.525
+2025-05-14 10:54:08,619 - __main__ - INFO - Transformed 4 commands to robot coordinates
+2025-05-14 10:54:08,619 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:54:08,621 - __main__ - INFO - Generated trajectory with 7 points
+2025-05-14 10:54:08,621 - __main__ - INFO - Conversion complete. Trajectory has 7 points
+2025-05-14 10:54:08,645 - __main__ - INFO - Trajectory saved to drawings/square.json
+2025-05-14 10:55:53,009 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:55:53,009 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:55:53,025 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:55:53,328 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:55:53,343 - __main__ - INFO - Parsing SVG file: svg/circle.svg
+2025-05-14 10:55:53,361 - __main__ - INFO - Found circle: cx=105.0, cy=148.5, r=50.0
+2025-05-14 10:55:53,361 - __main__ - INFO - Found 37 drawing commands
+2025-05-14 10:55:53,362 - __main__ - INFO - Extracted 37 drawing commands
+2025-05-14 10:55:53,362 - __main__ - INFO - After closing paths: 37 commands
+2025-05-14 10:55:53,362 - __main__ - INFO - Path optimization: 37 -> 37 commands
+2025-05-14 10:55:53,362 - __main__ - INFO - After path optimization: 37 commands
+2025-05-14 10:55:53,363 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:55:53,363 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 198.5]
+2025-05-14 10:55:53,364 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-14 10:55:53,364 - __main__ - INFO - Scaling factors: X=0.525, Y=0.525
+2025-05-14 10:55:53,364 - __main__ - INFO - Transformed 37 commands to robot coordinates
+2025-05-14 10:55:53,364 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:55:53,364 - __main__ - INFO - Generated trajectory with 40 points
+2025-05-14 10:55:53,364 - __main__ - INFO - Conversion complete. Trajectory has 40 points
+2025-05-14 10:55:53,384 - __main__ - INFO - Trajectory saved to drawings/circle.json
+2025-05-14 10:55:59,544 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:55:59,544 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:55:59,544 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:55:59,866 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:55:59,868 - __main__ - INFO - Parsing SVG file: svg/spiral.svg
+2025-05-14 10:55:59,879 - __main__ - INFO - Found path with d attribute: M 105,148.5 L 110.2,148.5 L 110.37945136969543,148...
+2025-05-14 10:55:59,879 - __main__ - INFO - Found 217 drawing commands
+2025-05-14 10:55:59,880 - __main__ - INFO - Extracted 217 drawing commands
+2025-05-14 10:55:59,880 - __main__ - INFO - After closing paths: 217 commands
+2025-05-14 10:55:59,880 - __main__ - INFO - Path optimization: 217 -> 217 commands
+2025-05-14 10:55:59,881 - __main__ - INFO - After path optimization: 217 commands
+2025-05-14 10:55:59,881 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:55:59,881 - __main__ - INFO - Drawing bounds: X=[63.75753949900169, 153.0165844480223], Y=[103.67123858587135, 186.156159587868]
+2025-05-14 10:55:59,881 - __main__ - INFO - Drawing size: 89.25904494902059 x 82.48492100199664
+2025-05-14 10:55:59,881 - __main__ - INFO - Scaling factors: X=0.5881756860605538, Y=0.5881756860605538
+2025-05-14 10:55:59,882 - __main__ - INFO - Transformed 217 commands to robot coordinates
+2025-05-14 10:55:59,882 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:55:59,882 - __main__ - INFO - Generated trajectory with 220 points
+2025-05-14 10:55:59,882 - __main__ - INFO - Conversion complete. Trajectory has 220 points
+2025-05-14 10:55:59,942 - __main__ - INFO - Trajectory saved to drawings/spiral.json
+2025-05-14 10:56:04,131 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:56:04,131 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:56:04,150 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:56:04,430 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:56:04,430 - __main__ - INFO - Parsing SVG file: svg/triangle.svg
+2025-05-14 10:56:04,451 - __main__ - INFO - Found path with d attribute: M 55,180 L 105,80 L 155,180 Z...
+2025-05-14 10:56:04,451 - __main__ - INFO - Found 3 drawing commands
+2025-05-14 10:56:04,451 - __main__ - INFO - Extracted 3 drawing commands
+2025-05-14 10:56:04,451 - __main__ - INFO - After closing paths: 3 commands
+2025-05-14 10:56:04,451 - __main__ - INFO - Path optimization: 3 -> 3 commands
+2025-05-14 10:56:04,451 - __main__ - INFO - After path optimization: 3 commands
+2025-05-14 10:56:04,451 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:56:04,451 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[80.0, 180.0]
+2025-05-14 10:56:04,451 - __main__ - INFO - Drawing size: 100.0 x 100.0
+2025-05-14 10:56:04,451 - __main__ - INFO - Scaling factors: X=0.525, Y=0.525
+2025-05-14 10:56:04,451 - __main__ - INFO - Transformed 3 commands to robot coordinates
+2025-05-14 10:56:04,451 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:56:04,451 - __main__ - INFO - Generated trajectory with 6 points
+2025-05-14 10:56:04,451 - __main__ - INFO - Conversion complete. Trajectory has 6 points
+2025-05-14 10:56:04,472 - __main__ - INFO - Trajectory saved to drawings/triangle.json
+2025-05-14 10:56:13,050 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 10:56:13,050 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 10:56:13,050 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 10:56:13,327 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 10:56:13,331 - __main__ - INFO - Parsing SVG file: svg/star.svg
+2025-05-14 10:56:13,349 - __main__ - INFO - Found path with d attribute: M 105,98.5 L 120,133.5 L 155,133.5 L 130,153.5 L 1...
+2025-05-14 10:56:13,349 - __main__ - INFO - Found 10 drawing commands
+2025-05-14 10:56:13,349 - __main__ - INFO - Extracted 10 drawing commands
+2025-05-14 10:56:13,349 - __main__ - INFO - After closing paths: 10 commands
+2025-05-14 10:56:13,350 - __main__ - INFO - Path optimization: 10 -> 10 commands
+2025-05-14 10:56:13,350 - __main__ - INFO - After path optimization: 10 commands
+2025-05-14 10:56:13,350 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 10:56:13,350 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 188.5]
+2025-05-14 10:56:13,351 - __main__ - INFO - Drawing size: 100.0 x 90.0
+2025-05-14 10:56:13,351 - __main__ - INFO - Scaling factors: X=0.525, Y=0.525
+2025-05-14 10:56:13,351 - __main__ - INFO - Transformed 10 commands to robot coordinates
+2025-05-14 10:56:13,351 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 10:56:13,352 - __main__ - INFO - Generated trajectory with 13 points
+2025-05-14 10:56:13,352 - __main__ - INFO - Conversion complete. Trajectory has 13 points
+2025-05-14 10:56:13,372 - __main__ - INFO - Trajectory saved to drawings/star.json
+2025-05-14 14:22:04,242 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 14:22:04,242 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 14:22:04,242 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 14:22:04,615 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 14:22:04,616 - __main__ - INFO - Parsing SVG file: svg/star.svg
+2025-05-14 14:22:04,654 - __main__ - INFO - Found path with d attribute: M 105,98.5 L 120,133.5 L 155,133.5 L 130,153.5 L 1...
+2025-05-14 14:22:04,654 - __main__ - INFO - Found 10 drawing commands
+2025-05-14 14:22:04,654 - __main__ - INFO - Extracted 10 drawing commands
+2025-05-14 14:22:04,654 - __main__ - INFO - After closing paths: 10 commands
+2025-05-14 14:22:04,654 - __main__ - INFO - Path optimization: 10 -> 10 commands
+2025-05-14 14:22:04,654 - __main__ - INFO - After path optimization: 10 commands
+2025-05-14 14:22:04,654 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 14:22:04,654 - __main__ - INFO - Drawing bounds: X=[55.0, 155.0], Y=[98.5, 188.5]
+2025-05-14 14:22:04,654 - __main__ - INFO - Drawing size: 100.0 x 90.0
+2025-05-14 14:22:04,654 - __main__ - INFO - Scaling factors: X=0.525, Y=0.525
+2025-05-14 14:22:04,654 - __main__ - INFO - Transformed 10 commands to robot coordinates
+2025-05-14 14:22:04,654 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 14:22:04,654 - __main__ - INFO - Generated trajectory with 13 points
+2025-05-14 14:22:04,654 - __main__ - INFO - Conversion complete. Trajectory has 13 points
+2025-05-14 14:22:04,685 - __main__ - INFO - Trajectory saved to drawings/star.json
+2025-05-14 14:53:57,795 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 14:53:57,796 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 14:53:57,796 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 14:53:58,134 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 14:53:58,134 - __main__ - INFO - Parsing SVG file: svg/extreme.svg
+2025-05-14 14:53:58,181 - __main__ - ERROR - Error parsing SVG file: could not convert string to float: '100%'
+2025-05-14 14:53:58,194 - __main__ - ERROR - Traceback (most recent call last):
+  File "h:\Onlab\svg_code.py", line 372, in parse_svg_path
+    width = float(rect.get('width', 0))
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: could not convert string to float: '100%'
+
+2025-05-14 14:53:58,194 - __main__ - ERROR - No drawing commands found in SVG file
+2025-05-14 14:58:05,610 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 14:58:05,610 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 14:58:05,610 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 14:58:05,903 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 14:58:05,918 - __main__ - INFO - Parsing SVG file: svg/koch.svg
+2025-05-14 14:58:05,948 - __main__ - INFO - Found path with d attribute: M 30,200 L 45,173.2 L 60,200 L 75,173.2 L 90,200 L...
+2025-05-14 14:58:05,948 - __main__ - INFO - Found 11 drawing commands
+2025-05-14 14:58:05,948 - __main__ - INFO - Extracted 11 drawing commands
+2025-05-14 14:58:05,948 - __main__ - INFO - After closing paths: 11 commands
+2025-05-14 14:58:05,948 - __main__ - INFO - Path optimization: 11 -> 11 commands
+2025-05-14 14:58:05,948 - __main__ - INFO - After path optimization: 11 commands
+2025-05-14 14:58:05,948 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 14:58:05,948 - __main__ - INFO - Drawing bounds: X=[30.0, 180.0], Y=[173.2, 200.0]
+2025-05-14 14:58:05,948 - __main__ - INFO - Drawing size: 150.0 x 26.80000000000001
+2025-05-14 14:58:05,948 - __main__ - INFO - Scaling factors: X=0.35, Y=0.35
+2025-05-14 14:58:05,948 - __main__ - INFO - Transformed 11 commands to robot coordinates
+2025-05-14 14:58:05,948 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 14:58:05,948 - __main__ - INFO - Generated trajectory with 14 points
+2025-05-14 14:58:05,948 - __main__ - INFO - Conversion complete. Trajectory has 14 points
+2025-05-14 14:58:05,978 - __main__ - INFO - Trajectory saved to drawings/koch.json
+2025-05-14 15:01:30,772 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 15:01:30,772 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 15:01:30,772 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 15:01:31,089 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 15:01:31,089 - __main__ - INFO - Parsing SVG file: svg/extreme_koch.svg
+2025-05-14 15:01:31,129 - __main__ - INFO - Found path with d attribute: M 30,150 L 31.85185185185185,150.0 L 32.7777777777...
+2025-05-14 15:01:31,132 - __main__ - INFO - Found 769 drawing commands
+2025-05-14 15:01:31,132 - __main__ - INFO - Extracted 769 drawing commands
+2025-05-14 15:01:31,133 - __main__ - INFO - After closing paths: 769 commands
+2025-05-14 15:01:31,133 - __main__ - INFO - Path optimization: 769 -> 769 commands
+2025-05-14 15:01:31,135 - __main__ - INFO - After path optimization: 769 commands
+2025-05-14 15:01:31,135 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 15:01:31,136 - __main__ - INFO - Drawing bounds: X=[30.0, 180.0], Y=[20.0961894323342, 150.0]
+2025-05-14 15:01:31,136 - __main__ - INFO - Drawing size: 150.0 x 129.9038105676658
+2025-05-14 15:01:31,136 - __main__ - INFO - Scaling factors: X=0.35, Y=0.35
+2025-05-14 15:01:31,137 - __main__ - INFO - Transformed 769 commands to robot coordinates
+2025-05-14 15:01:31,137 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 15:01:31,137 - __main__ - INFO - Generated trajectory with 772 points
+2025-05-14 15:01:31,137 - __main__ - INFO - Conversion complete. Trajectory has 772 points
+2025-05-14 15:01:31,224 - __main__ - INFO - Trajectory saved to drawings/extreme_koch.json
+2025-05-14 15:25:25,330 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 15:25:25,330 - __main__ - INFO - Drawing surface Z: -144.8
+2025-05-14 15:25:25,330 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 15:25:25,696 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 15:25:25,704 - __main__ - INFO - Parsing SVG file: svg/large_koch_snowflake.svg
+2025-05-14 15:25:25,737 - __main__ - INFO - Found path with d attribute: M 47.5,198.2964607176052 L 51.75925925925926,198.2...
+2025-05-14 15:25:25,737 - __main__ - INFO - Found 193 drawing commands
+2025-05-14 15:25:25,737 - __main__ - INFO - Extracted 193 drawing commands
+2025-05-14 15:25:25,737 - __main__ - INFO - After closing paths: 193 commands
+2025-05-14 15:25:25,737 - __main__ - INFO - Path optimization: 193 -> 193 commands
+2025-05-14 15:25:25,737 - __main__ - INFO - After path optimization: 193 commands
+2025-05-14 15:25:25,737 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 15:25:25,737 - __main__ - INFO - Drawing bounds: X=[47.5, 162.5], Y=[98.70353928239479, 198.2964607176052]
+2025-05-14 15:25:25,737 - __main__ - INFO - Drawing size: 115.0 x 99.59292143521043
+2025-05-14 15:25:25,737 - __main__ - INFO - Scaling factors: X=0.45652173913043476, Y=0.45652173913043476
+2025-05-14 15:25:25,737 - __main__ - INFO - Transformed 193 commands to robot coordinates
+2025-05-14 15:25:25,737 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 15:25:25,749 - __main__ - INFO - Generated trajectory with 196 points
+2025-05-14 15:25:25,749 - __main__ - INFO - Conversion complete. Trajectory has 196 points
+2025-05-14 15:25:25,782 - __main__ - INFO - Trajectory saved to drawings/large_koch_snowflake.json
+2025-05-14 15:30:20,774 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 15:30:20,774 - __main__ - INFO - Drawing surface Z: -145
+2025-05-14 15:30:20,774 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 15:30:21,135 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 15:30:21,135 - __main__ - INFO - Parsing SVG file: svg/detailed_koch_snowflake.svg
+2025-05-14 15:30:21,174 - __main__ - INFO - Found path with d attribute: M 45.0,200.46152422706632 L 45.49382716049383,200....
+2025-05-14 15:30:21,185 - __main__ - INFO - Found 3073 drawing commands
+2025-05-14 15:30:21,186 - __main__ - INFO - Extracted 3073 drawing commands
+2025-05-14 15:30:21,187 - __main__ - INFO - After closing paths: 3073 commands
+2025-05-14 15:30:21,188 - __main__ - INFO - Path optimization: 3073 -> 3073 commands
+2025-05-14 15:30:21,189 - __main__ - INFO - After path optimization: 3073 commands
+2025-05-14 15:30:21,189 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 15:30:21,190 - __main__ - INFO - Drawing bounds: X=[45.0, 165.0], Y=[96.53847577293368, 200.46152422706632]
+2025-05-14 15:30:21,190 - __main__ - INFO - Drawing size: 120.0 x 103.92304845413264
+2025-05-14 15:30:21,190 - __main__ - INFO - Scaling factors: X=0.4375, Y=0.4375
+2025-05-14 15:30:21,194 - __main__ - INFO - Transformed 3073 commands to robot coordinates
+2025-05-14 15:30:21,194 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 15:30:21,194 - __main__ - INFO - Generated trajectory with 3076 points
+2025-05-14 15:30:21,194 - __main__ - INFO - Conversion complete. Trajectory has 3076 points
+2025-05-14 15:30:21,438 - __main__ - INFO - Trajectory saved to drawings/detailed_koch_snowflake.json
+2025-05-14 15:32:39,415 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 15:32:39,431 - __main__ - INFO - Drawing surface Z: -145
+2025-05-14 15:32:39,431 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 15:32:40,035 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 15:32:40,035 - __main__ - INFO - Parsing SVG file: svg/abstract_koch.svg
+2025-05-14 15:32:40,054 - __main__ - INFO - Found path with d attribute: M 155.0,148.5 L 154.69135802469137,149.03458358258...
+2025-05-14 15:32:40,066 - __main__ - INFO - Found 1537 drawing commands
+2025-05-14 15:32:40,068 - __main__ - INFO - Extracted 1537 drawing commands
+2025-05-14 15:32:40,068 - __main__ - INFO - After closing paths: 1537 commands
+2025-05-14 15:32:40,068 - __main__ - INFO - Path optimization: 1537 -> 1537 commands
+2025-05-14 15:32:40,068 - __main__ - INFO - After path optimization: 1537 commands
+2025-05-14 15:32:40,068 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 15:32:40,068 - __main__ - INFO - Drawing bounds: X=[54.26548444513821, 155.82376265879765], Y=[90.76497308103743, 203.98792609511466]
+2025-05-14 15:32:40,068 - __main__ - INFO - Drawing size: 101.55827821365943 x 113.22295301407723
+2025-05-14 15:32:40,068 - __main__ - INFO - Scaling factors: X=0.5169445654597443, Y=0.5169445654597443
+2025-05-14 15:32:40,077 - __main__ - INFO - Transformed 1537 commands to robot coordinates
+2025-05-14 15:32:40,077 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 15:32:40,077 - __main__ - INFO - Generated trajectory with 1540 points
+2025-05-14 15:32:40,077 - __main__ - INFO - Conversion complete. Trajectory has 1540 points
+2025-05-14 15:32:40,219 - __main__ - INFO - Trajectory saved to drawings/abstract_koch.json
+2025-05-14 15:33:56,252 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 15:33:56,252 - __main__ - INFO - Drawing surface Z: -145
+2025-05-14 15:33:56,252 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 15:33:56,573 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 15:33:56,573 - __main__ - INFO - Parsing SVG file: svg/abstract_koch.svg
+2025-05-14 15:33:56,583 - __main__ - INFO - Found path with d attribute: M 155.0,148.5 L 154.69135802469137,149.03458358258...
+2025-05-14 15:33:56,598 - __main__ - INFO - Found 1537 drawing commands
+2025-05-14 15:33:56,598 - __main__ - INFO - Extracted 1537 drawing commands
+2025-05-14 15:33:56,600 - __main__ - INFO - After closing paths: 1537 commands
+2025-05-14 15:33:56,604 - __main__ - INFO - Path optimization: 1537 -> 1537 commands
+2025-05-14 15:33:56,605 - __main__ - INFO - After path optimization: 1537 commands
+2025-05-14 15:33:56,605 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 15:33:56,608 - __main__ - INFO - Drawing bounds: X=[54.26548444513821, 155.82376265879765], Y=[90.76497308103743, 203.98792609511466]
+2025-05-14 15:33:56,609 - __main__ - INFO - Drawing size: 101.55827821365943 x 113.22295301407723
+2025-05-14 15:33:56,609 - __main__ - INFO - Scaling factors: X=1.0338891309194886, Y=1.0338891309194886
+2025-05-14 15:33:56,610 - __main__ - INFO - Transformed 1537 commands to robot coordinates
+2025-05-14 15:33:56,611 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 15:33:56,612 - __main__ - INFO - Generated trajectory with 1540 points
+2025-05-14 15:33:56,613 - __main__ - INFO - Conversion complete. Trajectory has 1540 points
+2025-05-14 15:33:56,782 - __main__ - INFO - Trajectory saved to drawings/abstract_koch.json
+2025-05-14 15:38:49,100 - __main__ - INFO - Calibration data loaded from calibration.json
+2025-05-14 15:38:49,100 - __main__ - INFO - Drawing surface Z: -145
+2025-05-14 15:38:49,116 - __main__ - INFO - Center position: X=-37, Y=-295
+2025-05-14 15:38:49,430 - __main__ - INFO - Default SVG files created in the svg directory
+2025-05-14 15:38:49,430 - __main__ - INFO - Parsing SVG file: svg/abstract_koch.svg
+2025-05-14 15:38:49,440 - __main__ - INFO - Found path with d attribute: M 155.0,148.5 L 154.69135802469137,149.03458358258...
+2025-05-14 15:38:49,448 - __main__ - INFO - Found 1537 drawing commands
+2025-05-14 15:38:49,456 - __main__ - INFO - Extracted 1537 drawing commands
+2025-05-14 15:38:49,458 - __main__ - INFO - After closing paths: 1537 commands
+2025-05-14 15:38:49,459 - __main__ - INFO - Path optimization: 1537 -> 1537 commands
+2025-05-14 15:38:49,462 - __main__ - INFO - After path optimization: 1537 commands
+2025-05-14 15:38:49,486 - __main__ - INFO - Scaling to robot coordinates...
+2025-05-14 15:38:49,486 - __main__ - INFO - Drawing bounds: X=[54.26548444513821, 155.82376265879765], Y=[90.76497308103743, 203.98792609511466]
+2025-05-14 15:38:49,486 - __main__ - INFO - Drawing size: 101.55827821365943 x 113.22295301407723
+2025-05-14 15:38:49,492 - __main__ - INFO - Scaling factors: X=0.723722391643642, Y=0.723722391643642
+2025-05-14 15:38:49,494 - __main__ - INFO - Transformed 1537 commands to robot coordinates
+2025-05-14 15:38:49,495 - __main__ - INFO - Generating robot trajectory...
+2025-05-14 15:38:49,499 - __main__ - INFO - Generated trajectory with 1540 points
+2025-05-14 15:38:49,499 - __main__ - INFO - Conversion complete. Trajectory has 1540 points
+2025-05-14 15:38:49,679 - __main__ - INFO - Trajectory saved to drawings/abstract_koch.json

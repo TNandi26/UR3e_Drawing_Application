@@ -5,7 +5,7 @@ import rtde.rtde as rtde
 import rtde.rtde_config as rtde_config
 
 # ROBOT_HOST = '192.168.0.2'
-ROBOT_HOST = '192.168.56.101'
+ROBOT_HOST = '10.150.0.1'
 ROBOT_PORT = 30004
 config_filename = 'rtdeState.xml'
 

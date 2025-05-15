@@ -1,0 +1,386 @@
+2025-05-07 13:39:29,944 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 13:39:30,645 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 13:39:30,662 - rtde - INFO - RTDE synchronization started
+2025-05-07 13:39:30,675 - __main__ - ERROR - A robot nincs távoli vezérlés módban. Kérlek, kapcsold be a távoli vezérlést.
+2025-05-07 13:40:00,734 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 13:40:00,891 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 13:40:00,904 - rtde - INFO - RTDE synchronization started
+2025-05-07 13:40:00,907 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 13:40:00,907 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 13:40:00,907 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 13:49:38,543 - __main__ - ERROR - Sikertelen aktuális pozíció lekérés: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-07 13:50:43,358 - __main__ - ERROR - Sikertelen aktuális pozíció lekérés: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-07 13:50:59,812 - __main__ - ERROR - Sikertelen aktuális pozíció lekérés: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-07 13:51:09,926 - __main__ - ERROR - Sikertelen aktuális pozíció lekérés: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-07 13:51:47,995 - root - WARNING - The connection was lost to the robot. Please connect and try running again.
+2025-05-07 13:52:00,532 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 13:52:01,237 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 13:52:01,237 - rtde - INFO - RTDE synchronization started
+2025-05-07 13:52:01,237 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 13:52:01,237 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 13:52:01,237 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 13:52:13,477 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 13:52:13,493 - rtde - INFO - RTDE disconnected
+2025-05-07 13:52:13,493 - __main__ - ERROR - Sikertelen aktuális pozíció lekérés: 'received 0 bytes from Controller'
+2025-05-07 13:53:10,641 - __main__ - ERROR - Sikertelen aktuális pozíció lekérés: 'Cannot receive when RTDE synchronization is inactive'
+2025-05-07 13:53:25,744 - __main__ - ERROR - Sikertelen robot állapot lekérés: 'Cannot receive when RTDE synchronization is inactive'
+2025-05-07 13:53:37,982 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 13:53:38,026 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 13:53:38,026 - rtde - INFO - RTDE synchronization started
+2025-05-07 13:53:38,037 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 13:53:38,039 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 13:53:38,039 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 13:54:06,756 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 13:54:06,756 - rtde - INFO - RTDE disconnected
+2025-05-07 13:54:11,501 - __main__ - ERROR - Sikertelen aktuális pozíció lekérés: 'Cannot receive when RTDE synchronization is inactive'
+2025-05-07 13:55:10,784 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 13:55:10,784 - rtde - ERROR - RTDE synchronization failed to pause
+2025-05-07 13:58:29,737 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 13:58:30,051 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 13:58:30,055 - rtde - INFO - RTDE synchronization started
+2025-05-07 13:58:30,055 - __main__ - ERROR - A robot nincs távoli vezérlés módban. Kérlek, kapcsold be a távoli vezérlést.
+2025-05-07 13:58:56,180 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 13:58:57,211 - rtde - WARNING - no data received in last 1 seconds 
+2025-05-07 13:58:57,211 - __main__ - ERROR - Sikertelen kapcsolódás a robothoz: 'Unable to negotiate protocol version'
+2025-05-07 13:58:57,277 - rtde - INFO - RTDE synchronization paused
+2025-05-07 13:58:57,277 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 13:59:52,801 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 13:59:52,850 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 13:59:52,850 - rtde - INFO - RTDE synchronization started
+2025-05-07 13:59:52,865 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 13:59:52,865 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 13:59:52,865 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 14:01:15,710 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 14:01:16,037 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:01:16,043 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:01:16,049 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:01:16,049 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 14:01:16,049 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 14:02:01,524 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 14:02:01,524 - rtde - INFO - RTDE disconnected
+2025-05-07 14:02:01,524 - __main__ - ERROR - Sikertelen aktuális pozíció lekérés: 'received 0 bytes from Controller'
+2025-05-07 14:05:41,937 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 14:05:41,937 - __main__ - ERROR - Sikertelen kapcsolódás a robothoz: [WinError 10051] A socket operation was attempted to an unreachable network
+2025-05-07 14:05:41,954 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 14:06:01,882 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 14:06:01,965 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:06:01,965 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:06:01,977 - __main__ - ERROR - A robot nincs távoli vezérlés módban. Kérlek, kapcsold be a távoli vezérlést.
+2025-05-07 14:12:15,946 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 14:12:16,476 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:12:16,485 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:12:16,493 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:12:16,493 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 14:12:16,493 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 14:12:34,387 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 14:12:34,387 - rtde - INFO - RTDE disconnected
+2025-05-07 14:12:40,367 - __main__ - ERROR - Sikertelen aktuális pozíció lekérés: 'Cannot receive when RTDE synchronization is inactive'
+2025-05-07 14:20:16,763 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 14:20:16,763 - rtde - ERROR - RTDE synchronization failed to pause
+2025-05-07 14:20:16,763 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 14:20:19,212 - __main__ - ERROR - Sikertelen kalibrációs adat betöltés: Expecting value: line 1 column 1 (char 0)
+2025-05-07 14:20:22,271 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:20:22,271 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:20:22,271 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:20:22,271 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:20:22,285 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:20:22,285 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:20:22,285 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 14:20:22,285 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 14:20:33,266 - __main__ - INFO - Felület magasság kalibrálva Z = -0.09224795700448044 értékre
+2025-05-07 14:20:33,296 - __main__ - INFO - Kalibrációs adatok sikeresen elmentve.
+2025-05-07 14:20:33,305 - __main__ - ERROR - TCP mozgatási parancs sikertelen: ('Interpreter discarded message', 'discard: Program is in an invalid state: movel(p[-0.037619, -0.287290, -0.192248, -2.200931, -2.230578, 0.003759])')
+2025-05-07 14:22:34,696 - __main__ - ERROR - Hiba a lekapcsolódás során: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-07 14:46:29,851 - __main__ - INFO - Kalibrációs adatok betöltve: Felület Z = -0.09224795700448044
+2025-05-07 14:46:29,867 - __main__ - INFO - Home pozíció = [X: -0.0376, Y: -0.2873, Z: -0.1922, Rx: -2.2009, Ry: -2.2306, Rz: 0.0038]
+2025-05-07 14:46:31,901 - __main__ - ERROR - Sikertelen kapcsolódás a robothoz: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-07 14:46:31,901 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 14:48:22,872 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:48:22,872 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:48:24,987 - __main__ - ERROR - Sikertelen kapcsolódás a robothoz: [WinError 10061] No connection could be made because the target machine actively refused it
+2025-05-07 14:48:24,987 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 14:49:25,445 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:49:25,445 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:49:25,655 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:49:25,660 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:49:25,681 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:49:25,681 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:49:25,681 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:49:25,681 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:49:25,681 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 14:49:25,681 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 14:49:28,647 - rtde - INFO - RTDE synchronization paused
+2025-05-07 14:49:28,650 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:49:28,651 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:49:28,651 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:50:28,516 - __main__ - INFO - Mozgékonyság teszt indítása...
+2025-05-07 14:50:28,583 - __main__ - INFO - Program állapot: STOPPED <unnamed>
+2025-05-07 14:50:28,583 - __main__ - INFO - Nincs futó program a roboton. Próbálunk betölteni és indítani egyet...
+2025-05-07 14:50:28,583 - __main__ - INFO - Betöltött program: Loaded program: /programs/<unnamed>.urp
+2025-05-07 14:50:30,516 - __main__ - INFO - Program elindítva
+2025-05-07 14:50:32,527 - __main__ - INFO - TCP mozgatási parancs küldése: movel(p[-0.037619, -0.287290, -0.192248, -2.200931, -2.230578, 0.003759])
+2025-05-07 14:52:58,818 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:52:58,930 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:53:00,385 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:53:00,688 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:53:01,007 - __main__ - ERROR - A robot nincs távoli vezérlés módban. Kérlek, kapcsold be a távoli vezérlést.
+2025-05-07 14:53:37,281 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:53:37,282 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:53:37,748 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:53:38,058 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:53:38,891 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:53:38,892 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:53:38,943 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:53:38,943 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:53:39,919 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 14:53:39,919 - rtde - INFO - RTDE disconnected
+2025-05-07 14:53:39,919 - __main__ - ERROR - Sikertelen kapcsolódás a robothoz: 'received 0 bytes from Controller'
+2025-05-07 14:53:39,919 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 14:53:39,919 - rtde - ERROR - RTDE synchronization failed to pause
+2025-05-07 14:53:39,986 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 14:53:56,871 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:53:56,872 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:53:57,419 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:53:57,737 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:53:58,174 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:53:58,175 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:53:58,372 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:53:58,387 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:53:58,387 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 14:53:58,387 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 14:54:13,926 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:54:13,926 - __main__ - ERROR - Hiba az RTDE szinkronizáció indításakor: [WinError 10054] An existing connection was forcibly closed by the remote host
+2025-05-07 14:56:56,912 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:56:56,912 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:56:57,611 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:56:57,932 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:56:58,349 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:56:58,349 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:56:58,563 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:56:58,563 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:56:58,563 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 14:56:58,563 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 14:57:03,034 - rtde - INFO - RTDE synchronization paused
+2025-05-07 14:57:03,034 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:57:03,977 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:57:03,977 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:57:10,869 - root - WARNING - The connection was lost to the robot. Please connect and try running again.
+2025-05-07 14:57:31,784 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:57:31,784 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:57:32,503 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:57:32,815 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:57:33,414 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:57:33,414 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:57:33,446 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:57:33,446 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:57:34,434 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 14:57:34,434 - rtde - INFO - RTDE disconnected
+2025-05-07 14:57:34,449 - __main__ - ERROR - Sikertelen kapcsolódás a robothoz: 'received 0 bytes from Controller'
+2025-05-07 14:57:34,449 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 14:57:34,449 - rtde - ERROR - RTDE synchronization failed to pause
+2025-05-07 14:57:34,792 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 14:57:55,748 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:57:55,749 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:57:56,661 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:57:57,364 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:57:58,207 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:57:58,207 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:57:58,526 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:57:58,526 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:57:58,526 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 14:57:58,526 - rtde - INFO - RTDE disconnected
+2025-05-07 14:57:58,526 - __main__ - ERROR - Sikertelen kapcsolódás a robothoz: 'received 0 bytes from Controller'
+2025-05-07 14:57:58,526 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 14:57:58,526 - rtde - ERROR - RTDE synchronization failed to pause
+2025-05-07 14:57:58,729 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 14:58:06,284 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:58:06,286 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:58:06,983 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:58:07,293 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:58:07,939 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:58:07,939 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:58:08,133 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:58:08,133 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:58:08,133 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 14:58:08,133 - rtde - INFO - RTDE disconnected
+2025-05-07 14:58:08,141 - __main__ - ERROR - Sikertelen kapcsolódás a robothoz: 'received 0 bytes from Controller'
+2025-05-07 14:58:08,141 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 14:58:08,141 - rtde - ERROR - RTDE synchronization failed to pause
+2025-05-07 14:58:08,440 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 14:58:28,129 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:58:28,137 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:58:28,839 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:58:29,141 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:58:29,718 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:58:29,718 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:58:29,838 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:58:29,838 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:58:29,867 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 14:58:29,867 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 14:59:29,279 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 14:59:29,279 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 14:59:30,681 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 14:59:30,989 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:59:31,424 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 14:59:31,424 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:59:31,988 - rtde - INFO - RTDE synchronization started
+2025-05-07 14:59:32,003 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 14:59:32,003 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 14:59:32,003 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 14:59:32,630 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 14:59:32,630 - rtde - INFO - RTDE disconnected
+2025-05-07 14:59:38,310 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 14:59:38,310 - rtde - ERROR - RTDE synchronization failed to pause
+2025-05-07 14:59:38,310 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 14:59:38,310 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 14:59:38,310 - rtde - ERROR - RTDE synchronization failed to start
+2025-05-07 14:59:38,310 - __main__ - ERROR - Az RTDE szinkronizáció indítása sikertelen
+2025-05-07 15:04:00,514 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 15:04:00,514 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 15:04:01,423 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 15:04:02,049 - rtde - INFO - RTDE synchronization started
+2025-05-07 15:04:02,576 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 15:04:02,576 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 15:04:02,680 - rtde - INFO - RTDE synchronization started
+2025-05-07 15:04:02,680 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 15:04:03,668 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 15:04:03,668 - rtde - INFO - RTDE disconnected
+2025-05-07 15:04:03,684 - __main__ - ERROR - Sikertelen kapcsolódás a robothoz: 'received 0 bytes from Controller'
+2025-05-07 15:04:03,684 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 15:04:03,684 - rtde - ERROR - RTDE synchronization failed to pause
+2025-05-07 15:04:03,955 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 15:17:01,481 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 15:17:01,606 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 15:17:02,592 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 15:17:02,837 - rtde - INFO - RTDE synchronization started
+2025-05-07 15:17:03,268 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 15:17:03,268 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 15:17:03,470 - rtde - INFO - RTDE synchronization started
+2025-05-07 15:17:03,470 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 15:17:03,470 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 15:17:03,470 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 15:18:18,105 - root - WARNING - The connection was lost to the robot. Please connect and try running again.
+2025-05-07 15:18:35,215 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 15:18:35,215 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 15:18:36,614 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 15:18:37,085 - rtde - INFO - RTDE synchronization started
+2025-05-07 15:18:37,869 - __main__ - INFO - Robot mód: Robotmode: IDLE
+2025-05-07 15:18:37,869 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 15:18:37,964 - rtde - INFO - RTDE synchronization started
+2025-05-07 15:18:37,964 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 15:18:38,975 - rtde - WARNING - no data received in last 1 seconds 
+2025-05-07 15:18:38,975 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 15:18:39,125 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 15:18:39,125 - rtde - INFO - RTDE disconnected
+2025-05-07 15:18:42,559 - __main__ - ERROR - Sikertelen robot állapot lekérés: 'Cannot receive when RTDE synchronization is inactive'
+2025-05-07 15:18:46,951 - __main__ - INFO - Fék kioldás válasz: Brake releasing
+2025-05-07 15:18:48,959 - __main__ - ERROR - Sikertelen fék kioldás: 'Cannot receive when RTDE synchronization is inactive'
+2025-05-07 15:23:56,648 - root - WARNING - The connection was lost to the robot. Please connect and try running again.
+2025-05-07 15:24:02,481 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 15:24:02,481 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 15:24:03,991 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 15:24:04,387 - rtde - INFO - RTDE synchronization started
+2025-05-07 15:24:04,927 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 15:24:04,928 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 15:24:05,043 - rtde - INFO - RTDE synchronization started
+2025-05-07 15:24:05,043 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 15:24:06,024 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 15:24:06,024 - rtde - INFO - RTDE disconnected
+2025-05-07 15:24:06,024 - __main__ - ERROR - Sikertelen kapcsolódás a robothoz: 'received 0 bytes from Controller'
+2025-05-07 15:24:06,024 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 15:24:06,024 - rtde - ERROR - RTDE synchronization failed to pause
+2025-05-07 15:24:06,180 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 15:24:19,705 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 15:24:19,705 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 15:24:20,975 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 15:24:21,270 - rtde - INFO - RTDE synchronization started
+2025-05-07 15:24:21,679 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 15:24:21,679 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 15:24:21,883 - rtde - INFO - RTDE synchronization started
+2025-05-07 15:24:21,883 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 15:24:22,886 - rtde - WARNING - no data received in last 1 seconds 
+2025-05-07 15:24:22,886 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 15:24:22,981 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 15:24:22,981 - rtde - INFO - RTDE disconnected
+2025-05-07 15:24:26,884 - __main__ - ERROR - Sikertelen robot állapot lekérés: 'Cannot receive when RTDE synchronization is inactive'
+2025-05-07 15:26:19,034 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 15:26:19,034 - rtde - ERROR - RTDE synchronization failed to pause
+2025-05-07 15:26:19,034 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 15:26:19,034 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 15:26:19,034 - rtde - ERROR - RTDE synchronization failed to start
+2025-05-07 15:26:19,034 - __main__ - ERROR - Az RTDE szinkronizáció indítása sikertelen
+2025-05-07 15:26:25,442 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 15:26:25,442 - rtde - ERROR - Unable to send: not connected to Robot
+2025-05-07 15:26:25,442 - rtde - ERROR - RTDE synchronization failed to start
+2025-05-07 15:26:25,442 - __main__ - ERROR - Az RTDE szinkronizáció indítása sikertelen
+2025-05-07 16:13:50,406 - __main__ - INFO - Hard-coded kalibrációs értékek betöltve:
+2025-05-07 16:13:50,406 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 16:13:50,844 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 16:13:50,844 - rtde - INFO - RTDE synchronization started
+2025-05-07 16:13:50,859 - __main__ - INFO - Kapcsolódás a robothoz (10.150.0.1:30002)...
+2025-05-07 16:13:50,875 - __main__ - INFO - Sikeresen kapcsolódva a Secondary Interface-hez!
+2025-05-07 16:13:50,881 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 16:13:50,881 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 16:13:50,883 - rtde - INFO - RTDE synchronization started
+2025-05-07 16:13:50,883 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 16:13:50,883 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 16:13:50,883 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 16:19:04,836 - __main__ - INFO - Kalibrációs értékek betöltve:
+2025-05-07 16:19:04,837 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 16:19:04,876 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 16:19:04,878 - rtde - INFO - RTDE synchronization started
+2025-05-07 16:19:04,879 - __main__ - INFO - Kapcsolódás a robothoz (10.150.0.1:30002)...
+2025-05-07 16:19:04,903 - __main__ - INFO - Sikeresen kapcsolódva a Secondary Interface-hez!
+2025-05-07 16:19:04,910 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 16:19:04,911 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 16:19:04,912 - rtde - INFO - RTDE synchronization started
+2025-05-07 16:19:04,912 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 16:19:04,913 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 16:19:04,913 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 16:19:04,917 - __main__ - INFO - TCP mozgatási parancs küldése: movel(p[-0.037619, -0.287290, -0.192248, -2.200931, -2.230578, 0.003759], a=0.5, v=0.1)
+
+2025-05-07 16:19:04,918 - __main__ - INFO - Script küldése: movel(p[-0.037619, -0.287290, -0.192248, -2.200931, -2.230578, 0.003759], a=0.5, v=0.1)
+2025-05-07 16:19:06,243 - __main__ - INFO - Robot elérte a célpozíciót.
+2025-05-07 16:19:09,504 - rtde - INFO - RTDE synchronization paused
+2025-05-07 16:19:09,504 - __main__ - INFO - Secondary Interface kapcsolat bontva.
+2025-05-07 16:19:09,520 - __main__ - INFO - Lekapcsolódva a robotról.
+2025-05-07 16:35:09,129 - __main__ - INFO - Kalibrációs értékek betöltve:
+2025-05-07 16:35:09,129 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 16:35:09,819 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 16:35:09,819 - rtde - INFO - RTDE synchronization started
+2025-05-07 16:35:09,819 - __main__ - INFO - Kapcsolódás a robothoz (10.150.0.1:30002)...
+2025-05-07 16:35:09,835 - __main__ - INFO - Sikeresen kapcsolódva a Secondary Interface-hez!
+2025-05-07 16:35:09,840 - __main__ - ERROR - A robot nincs távoli vezérlés módban. Kérlek, kapcsold be a távoli vezérlést.
+2025-05-07 16:35:36,306 - __main__ - INFO - Kalibrációs értékek betöltve:
+2025-05-07 16:35:36,306 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 16:35:36,456 - rtde - INFO - Controller version: 5.16.0.0
+2025-05-07 16:35:36,456 - rtde - INFO - RTDE synchronization started
+2025-05-07 16:35:36,456 - __main__ - INFO - Kapcsolódás a robothoz (10.150.0.1:30002)...
+2025-05-07 16:35:36,472 - __main__ - INFO - Sikeresen kapcsolódva a Secondary Interface-hez!
+2025-05-07 16:35:36,478 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 16:35:36,479 - __main__ - INFO - RTDE szinkronizáció elindítása...
+2025-05-07 16:35:36,481 - rtde - INFO - RTDE synchronization started
+2025-05-07 16:35:36,481 - __main__ - INFO - RTDE szinkronizáció sikeresen elindítva
+2025-05-07 16:35:36,483 - __main__ - INFO - Biztonsági állapot: 1
+2025-05-07 16:35:36,483 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 16:35:47,050 - __main__ - INFO - Biztonsági mód kikapcsolva
+2025-05-07 16:35:52,288 - __main__ - INFO - Biztonsági mód bekapcsolva
+2025-05-07 16:36:01,452 - rtde - ERROR - received 0 bytes from Controller, probable cause: Controller has stopped
+2025-05-07 16:36:01,452 - rtde - INFO - RTDE disconnected
+2025-05-07 16:36:01,452 - __main__ - ERROR - Sikertelen robot állapot lekérés: 'received 0 bytes from Controller'
+2025-05-07 16:37:23,005 - __main__ - INFO - Mozgékonyság teszt indítása...
+2025-05-07 16:37:23,005 - __main__ - ERROR - Sikertelen aktuális pozíció lekérés: 'Cannot receive when RTDE synchronization is inactive'
+2025-05-07 16:42:09,378 - __main__ - INFO - Kalibrációs értékek betöltve:
+2025-05-07 16:42:09,378 - __main__ - INFO - Felület Z = -0.09224795700448044
+2025-05-07 16:42:09,411 - __main__ - INFO - Kapcsolódás a robothoz (10.150.0.1:30002)...
+2025-05-07 16:42:09,428 - __main__ - INFO - Sikeresen kapcsolódva a Secondary Interface-hez!
+2025-05-07 16:42:09,433 - __main__ - INFO - Robot mód: Robotmode: RUNNING
+2025-05-07 16:42:09,436 - __main__ - INFO - Biztonsági állapot: Safetystatus: NORMAL
+2025-05-07 16:42:09,436 - __main__ - INFO - Sikeresen kapcsolódva a UR3e robothoz.
+2025-05-07 16:42:15,198 - __main__ - INFO - Biztonsági mód kikapcsolva
+2025-05-07 16:42:18,548 - __main__ - INFO - Biztonsági mód bekapcsolva
+2025-05-07 16:42:31,653 - __main__ - INFO - Biztonsági mód: Mozgás felosztása 10 részre.
+2025-05-07 16:42:35,654 - __main__ - INFO - TCP mozgatási parancs küldése (rész 1/10): movel(p[-0.037619, -0.287290, -0.192248, -2.200931, -2.230578, 0.003759])
+
+2025-05-07 16:42:35,654 - __main__ - INFO - Script küldése: movel(p[-0.037619, -0.287290, -0.192248, -2.200931, -2.230578, 0.003759])
+2025-05-07 16:42:35,677 - __main__ - INFO - Várakozás a részmozdulat befejezésére...

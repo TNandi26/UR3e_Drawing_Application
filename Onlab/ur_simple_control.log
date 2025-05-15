@@ -1,0 +1,19 @@
+2025-05-07 15:01:48,875 - __main__ - INFO - Kapcsolódás a robothoz: Connected: Universal Robots Dashboard Server
+2025-05-07 15:01:48,877 - __main__ - INFO - Sikeresen kapcsolódva a robothoz
+2025-05-07 15:01:48,883 - __main__ - INFO - Parancs küldése: robotmode
+2025-05-07 15:01:49,086 - __main__ - INFO - Válasz: Robotmode: RUNNING
+2025-05-07 15:01:49,086 - __main__ - INFO - Robot állapot: Robotmode: RUNNING
+2025-05-07 15:01:53,574 - __main__ - INFO - Parancs küldése: robotmode
+2025-05-07 15:01:53,799 - __main__ - INFO - Válasz: Robotmode: RUNNING
+2025-05-07 15:01:53,799 - __main__ - INFO - Parancs küldése: safetystatus
+2025-05-07 15:01:53,903 - __main__ - INFO - Válasz: Safetystatus: NORMAL
+2025-05-07 15:01:53,903 - __main__ - INFO - Parancs küldése: programstate
+2025-05-07 15:01:54,119 - __main__ - INFO - Válasz: STOPPED <unnamed>
+2025-05-07 15:01:54,119 - __main__ - INFO - Parancs küldése: get loaded program
+2025-05-07 15:01:54,221 - __main__ - INFO - Válasz: Loaded program: /programs/<unnamed>.urp
+2025-05-07 15:02:24,660 - __main__ - INFO - Parancs küldése: programstate
+2025-05-07 15:02:24,796 - __main__ - INFO - Válasz: STOPPED <unnamed>
+2025-05-07 15:02:24,828 - __main__ - INFO - URScript létrehozva: temp_script.script
+2025-05-07 15:02:24,828 - __main__ - INFO - Parancs küldése: load temp_script.script
+2025-05-07 15:02:25,001 - __main__ - INFO - Válasz: File not found: temp_script.script
+2025-05-07 15:02:25,001 - __main__ - ERROR - Sikertelen program betöltés: File not found: temp_script.script
